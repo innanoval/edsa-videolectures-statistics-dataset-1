@@ -1,0 +1,1226 @@
+published,title,url,views
+2015-07-28,Deep Reinforcement Learning,http://videolectures.net/rldm2015_silver_reinforcement_learning,10267
+2016-05-27,Incorporating Structure in Deep Learning,http://videolectures.net/iclr2016_urtasun_incoporating_structure,1763
+2016-05-27,"Deep Compression: Compressing Deep Neural Networks with Pruning, Trained Quantization and Huffman Coding",http://videolectures.net/iclr2016_han_deep_compression,1447
+2015-07-28,Basics of Computational Reinforcement Learning,http://videolectures.net/rldm2015_littman_computational_reinforcement,1426
+2016-05-27,Deep Robotic Learning,http://videolectures.net/iclr2016_levine_deep_learning,1315
+2016-02-10,Fast R-CNN,http://videolectures.net/iccv2015_girshick_fast_r_cnn,1259
+2015-12-05,Two high stakes challenges in machine learning,http://videolectures.net/icml2015_bottou_machine_learning,1135
+2016-08-31,Is Deep Learning the New 42?,http://videolectures.net/kdd2016_broder_deep_learning,730
+2016-02-10,Multi-Task Recurrent Neural Network for Immediacy Prediction,http://videolectures.net/iccv2015_chu_neural_network,713
+2016-05-27,Convergent Learning: Do different neural networks learn the same representations?,http://videolectures.net/iclr2016_yosinski_convergent_learning,712
+2015-12-05,Natural Language Understanding: Foundations and State-of-the-Art,http://videolectures.net/icml2015_liang_language_understanding,692
+2016-05-27,Opening,http://videolectures.net/iclr2016_larochelle_opening,620
+2016-05-27,Neural Programmer-Interpreters,http://videolectures.net/iclr2016_reed_neural_programmer,571
+2016-05-27,Should Model Architecture Reflect Linguistic Structure?,http://videolectures.net/iclr2016_dyer_model_architecture,562
+2016-02-24,It´s Learning All the Way Down,http://videolectures.net/iccv2015_lecun_learning,548
+2016-05-27,Beyond Backpropagation: Uncertainty Propagation,http://videolectures.net/iclr2016_lawrence_beyond_backpropagation,523
+2015-02-17,Introduction to Hidden Markov Models,http://videolectures.net/mlpmsummerschool2014_artes_rodriguez_models,493
+2016-08-31,Learning to learn and compositionality with deep recurrent neural networks,http://videolectures.net/kdd2016_de_freitas_recurrent_neural,480
+2015-07-28,Quickly Learning to Make Good Decisions,http://videolectures.net/rldm2015_brunskill_good_decisions,468
+2016-10-24,XNOR-Net: ImageNet Classification Using Binary Convolutional Neural Networks,http://videolectures.net/eccv2016_rastegari_neural_networks,424
+2016-05-27,Guaranteed Non-convex Learning Algorithms through Tensor Factorization,http://videolectures.net/iclr2016_anandkumar_nonconvex_learning,422
+2016-02-23,Convex Optimization with Abstract Linear Operators,http://videolectures.net/iccv2015_boyd_convex_optimization,414
+2016-10-24,Colorful Image Colorization,http://videolectures.net/eccv2016_zhang_image_colorization,404
+2015-12-05,Bayesian Time Series Modeling: Structured Representations for Scalability,http://videolectures.net/icml2015_fox_structured_representations,401
+2016-02-10,Deep Neural Decision Forests,http://videolectures.net/iccv2015_kontschieder_decision_forests,376
+2015-12-05,Advances in Structured Prediction,http://videolectures.net/icml2015_daume_structured_prediction,366
+2015-02-17,Machine learning for brain imaging,http://videolectures.net/mlpmsummerschool2014_varoquaux_brain_imaging,359
+2015-07-28,Natural RLDM: Optimal and Subptimal Control in Brain and Behavior,http://videolectures.net/rldm2015_daw_brain_and_behavior,353
+2016-02-10,Human Parsing With Contextualized Convolutional Neural Network,http://videolectures.net/iccv2015_liang_human_parsing,337
+2016-05-27,Net2Net: Accelerating Learning via Knowledge Transfer,http://videolectures.net/iclr2016_chen_net2net,336
+2015-09-27,Approval Voting and Incentives in Crowdsourcing,http://videolectures.net/icml2015_shah_crowdsourcing,332
+2016-02-23,Borrowing New Ideas from Human Vision,http://videolectures.net/iccv2015_lowe_human_vision,306
+2015-12-05,Batch Normalization: Accelerating Deep Network Training by Reducing Internal Covariate Shift,http://videolectures.net/icml2015_ioffe_batch_normalization,296
+2016-02-10,Semantic Image Segmentation via Deep Parsing Network,http://videolectures.net/iccv2015_liu_li_image_segmentation,290
+2016-10-24,SSD: Single Shot MultiBox Detector,http://videolectures.net/eccv2016_anguelov_multibox_detector,285
+2015-09-27,Kernel Interpolation for Scalable Structured Gaussian Processes (KISS-GP),http://videolectures.net/icml2015_wilson_kernel_interpolation,281
+2016-05-27,Variational Gaussian Process,http://videolectures.net/iclr2016_tran_variational_gaussian,277
+2016-10-06,Fundamentals of data science,http://videolectures.net/eswc2016_wagner_data_science,268
+2015-07-02,Dense 3D Face Alignment from 2D Videos in Real-Time,http://videolectures.net/fgconference2015_jeni_2d_videos,266
+2016-10-24,CNN Image Retrieval Learns from BoW: Unsupervised Fine-Tuning with Hard Examples,http://videolectures.net/eccv2016_radenovic_cnn_image,262
+2015-07-28,Proximal Reinforcement Learning:  Learning to Act in Primal Dual Spaces,http://videolectures.net/rldm2015_mahadevan_dual_spaces,257
+2016-05-27,Order-Embeddings of Images and Language,http://videolectures.net/iclr2016_vendrov_order_embeddings,253
+2016-10-24,The Fast Bilateral Solver,http://videolectures.net/eccv2016_barron_bilateral_solver,252
+2016-02-10,Unsupervised Visual Representation Learning by Context Prediction,http://videolectures.net/iccv2015_doersch_visual_representation,251
+2015-03-10,NLPGo,http://videolectures.net/cmuseminars_kambadur_nlpgo,247
+2016-08-31,Graphons and Machine Learning: Modeling and Estimation of Sparse Massive Networks,http://videolectures.net/kdd2016_chayes_machine_learning,246
+2015-12-05,Learning to Rank Using Gradient Descent,http://videolectures.net/icml2015_burges_learning_to_rank,237
+2016-09-16,Scalable R on Spark,http://videolectures.net/kdd2016_tutorial_scalable_r_on_spark,236
+2016-10-24,Single Image 3D Interpreter Network,http://videolectures.net/eccv2016_wu_single_image,235
+2015-12-05,Modern Convex Optimization Methods for Large-scale Empirical Risk Minimization,http://videolectures.net/icml2015_schmidt_risk_minimization,235
+2016-02-10,Opening Ceremony,http://videolectures.net/iccv2015_opening_ceremony,225
+2015-07-28,Generalization and Exploration via Value Function Randomization,http://videolectures.net/rldm2015_van_roy_function_randomization,222
+2016-05-27,Regularizing RNNs by Stabilizing Activations,http://videolectures.net/iclr2016_krueger_regularizing_rnns,221
+2015-12-05,Policy Search: Methods and Applications,http://videolectures.net/icml2015_neumann_peters_policy_search,219
+2015-07-28,Robots learning from human teachers,http://videolectures.net/rldm2015_thomaz_human_teachers,215
+2016-02-10,Ask Your Neurons: A Neural-based Approach to Answering Questions about Images,http://videolectures.net/iccv2015_malinowski_your_neurons,210
+2016-09-16,CNTK - Microsoft’s open-source deep-learning toolkit,http://videolectures.net/kdd2016_tutorial_deep_learning_toolkit,206
+2016-10-24,Fast Global Registration,http://videolectures.net/eccv2016_koltun_global_registration,206
+2015-12-05,Computational Social Science,http://videolectures.net/icml2015_wallach_social_science,198
+2015-10-22,Introduction to the summer school ,http://videolectures.net/eswc2015_simperl_introduction,192
+2016-10-06,Machine learning,http://videolectures.net/eswc2016_fortuna_machine_learning,191
+2016-09-16,Building Recommender Systems using Photon ML,http://videolectures.net/kdd2016_tutorial_recommender_systems,191
+2016-02-10,Holistically-Nested Edge Detection,http://videolectures.net/iccv2015_xie_edge_detection,182
+2015-09-27,Accelerated Online Low Rank Tensor Learning for Multivariate Spatiotemporal Streams,http://videolectures.net/icml2015_yu_multivariate_spatiotemporal_streams,178
+2015-11-10,"Build it, and they will come: Applications of semantic technology",http://videolectures.net/iswc2015_horrocks_semantic_technology,176
+2015-07-28,A Neuroeconomics Approach to Pathological Behavior,http://videolectures.net/rldm2015_levy_pathological_behavior,174
+2016-05-27,Neural Networks with Few Multiplications,http://videolectures.net/iclr2016_lin_neural_networks,173
+2015-12-05,Welcome address,http://videolectures.net/icml2015_welcome_address,167
+2015-07-02,The More the Merrier: Analysing the Affect of a Group of People in Images,http://videolectures.net/fgconference2015_goecke_people_images,163
+2015-03-06,NLPGo: Better research through better tools,http://videolectures.net/cmuseminars_hodson_nlpgo,161
+2016-09-01,Trying to be a ‘public’ (Bayesian) statistician,http://videolectures.net/isba2016_spiegelhalter_public_statistician,161
+2015-07-15,Desperately Searching for Travel Offers? Formulate Better Queries with Some Help from Linked Data,http://videolectures.net/eswc2015_lu_linked_data,160
+2016-05-27,A note on the evaluation of generative models,http://videolectures.net/iclr2016_theis_generative_models,159
+2015-12-05,An Empirical Exploration of Recurrent Network Architectures,http://videolectures.net/icml2015_jozefowicz_network_architectures,159
+2016-05-27,The Variational Fair Autoencoder,http://videolectures.net/iclr2016_louizos_fair_autoencoder,158
+2016-02-10,Learning Discriminative Reconstructions for Unsupervised Outlier Removal,http://videolectures.net/iccv2015_xia_outlier_removal,157
+2015-10-29,Data analytics involving text,http://videolectures.net/single_mladenic_data_analytics,156
+2015-07-28,What limits performance in decision making?,http://videolectures.net/rldm2015_pouget_decision_making,156
+2015-09-27,An embarrassingly simple approach to zero-shot learning,http://videolectures.net/icml2015_romera_paredes_zero_shot_learning,152
+2016-05-27,Generating Images from Captions with Attention,http://videolectures.net/iclr2016_mansimov_generating_images,152
+2016-10-24,Focal flow: Measuring depth and velocity from defocus and differential motion,http://videolectures.net/eccv2016_alexander_focal_flow,148
+2015-12-05,From Word Embeddings To Document Distances ,http://videolectures.net/icml2015_kusner_document_distances,143
+2016-05-31,A Survey of Model-Based Methods for Global Optimization,http://videolectures.net/bioma2016_bartz_beielstein_based_methods,139
+2015-09-27,Learning Deep Structured Models,http://videolectures.net/icml2015_chen_deep_structured_models,138
+2015-12-05,Modeling Order in Neural Word Embeddings at Scale,http://videolectures.net/icml2015_gilmore_trask_modeling_order,137
+2016-11-15,Near Real-Time Transportation Mode Detection Based on Accelerometer Readings,http://videolectures.net/sikdd2016_urbancic_accelerometer_readings,132
+2015-12-05,Is Feature Selection Secure against Training Data Poisoning?,http://videolectures.net/icml2015_biggio_feature_selection,132
+2016-02-10,Discovering the Spatial Extent of Relative Attributes,http://videolectures.net/iccv2015_xiao_relative_attributes,131
+2016-01-11,Representation and Reasoning with Universal Schema Embeddings,http://videolectures.net/iswc2015_mccallum_universal_schema,130
+2016-02-10,Learning to Track: Online Multi-Object Tracking by Decision Making,http://videolectures.net/iccv2015_xiang_decision_making,130
+2016-08-31,A VC View of Investing in ML,http://videolectures.net/kdd2016_papadopoulos_investing_ml,129
+2015-09-27,Support Matrix Machines,http://videolectures.net/icml2015_luo_support_matrix_machines,128
+2016-07-28,LOTUS: Adaptive Text Search for Big Linked Data,http://videolectures.net/eswc2016_ilievski_linked_data,128
+2016-09-01,Graphical modelling and Bayesian structural learning,http://videolectures.net/isba2016_green_graphical_modelling,128
+2015-09-27,A Relative Exponential Weighing Algorithm for Adversarial Utility-based Dueling Bandits,http://videolectures.net/icml2015_gajane_dueling_bandits,127
+2016-10-24,Visual Relationship Detection with Language Priors,http://videolectures.net/eccv2016_krishna_relationship_detection,126
+2016-11-10,RDF2Vec: RDF Graph Embeddings for Data Mining,http://videolectures.net/iswc2016_ristoski_rdf_graph,125
+2016-02-10,Deep Fried Convnets,http://videolectures.net/iccv2015_yang_fried_convnets,125
+2015-09-27,Fictitious Self-Play in Extensive-Form Games,http://videolectures.net/icml2015_heinrich_extensive_form_games,125
+2016-05-27,The Goldilocks Principle: Reading Children's Books with Explicit Memory Representations,http://videolectures.net/iclr2016_hill_goldilocks_principle,124
+2016-03-07,Learning networks of stochastic differential equations,http://videolectures.net/netadis2015_bento_ayres_pereira_equations,124
+2015-07-28,Reachability and Learning for Hybrid Systems,http://videolectures.net/rldm2015_tomlin_hybrid_systems,124
+2015-07-28,The Online Discovery Problem and Its Application to Lifelong Reinforcement Learning,http://videolectures.net/rldm2015_li_discovery_problem,122
+2016-02-10,Mutual-Structure for Joint Filtering,http://videolectures.net/iccv2015_shen_joint_filtering,121
+2016-02-10,Structured Indoor Modeling,http://videolectures.net/iccv2015_ikehata_indoor_modeling,121
+2016-02-10,Panoptic Studio: A Massively Multiview System for Social Motion Capture,http://videolectures.net/iccv2015_joo_panoptic_studio,119
+2015-07-15,Assigning Semantic Labels to Data Sources,http://videolectures.net/eswc2015_krishnamurthy_data_sources,119
+2016-10-24,Do We Really Need to Collect Millions of Faces for Effective Face Recognition?,http://videolectures.net/eccv2016_masi_face_recognition,118
+2015-12-05,Deep Learning with Limited Numerical Precision,http://videolectures.net/icml2015_gupta_numerical_precision,117
+2015-09-27,Multi-instance multi-label learning in the presence of novel class instances,http://videolectures.net/icml2015_raich_novel_class_instances,114
+2016-10-24,Learning Recursive Filters for Low-Level Vision via a Hybrid Neural Network,http://videolectures.net/eccv2016_liu_recursive_filters,114
+2016-08-31,"People, Computers, and The Hot Mess of Real Data",http://videolectures.net/kdd2016_hellerstein_people_computers,113
+2015-09-27,Functional Subspace Clustering with Application to Time Series,http://videolectures.net/icml2015_liu_functional_subspace_clustering,112
+2016-02-10,Learning Image Representations Tied to Ego-Motion,http://videolectures.net/iccv2015_jayaraman_image_representations,112
+2015-12-05,"Show, Attend and Tell: Neural Image Caption Generation with Visual Attention",http://videolectures.net/icml2015_xu_visual_attention,112
+2015-12-05,Coordinate Descent Converges Faster with the Gauss-Southwell Rule Than Random Selection,http://videolectures.net/icml2015_nutini_random_selection,111
+2015-09-27,Training Deep Convolutional Neural Networks to Play Go,http://videolectures.net/icml2015_clark_deep_convolutional_neural_networks,110
+2015-02-17,Statistical Relational Learning,http://videolectures.net/mlpmsummerschool2014_tresp_statistical_learning,110
+2016-02-10,Piecewise Flat Embedding for Image Segmentation,http://videolectures.net/iccv2015_yu_image_segmentation,109
+2016-09-09,Healthcare Data Mining with Matrix Models,http://videolectures.net/kdd2016_tutorial_matrix_models,109
+2016-09-16,MXNet,http://videolectures.net/kdd2016_tutorial_mxnet,108
+2016-10-24,Keep it SMPL: Automatic Estimation of 3D Human Pose and Shape from a Single Image,http://videolectures.net/eccv2016_kanazawa_single_image,108
+2015-07-28,"Practical RL: Representation, interaction, synthesis, and morality (PRISM)",http://videolectures.net/rldm2015_stone_practical_rl,107
+2015-09-27,Large-Scale Markov Decision Problems with KL Control Cost and its Application to Crowdsourcing,http://videolectures.net/icml2015_malek_crowdsourcing,107
+2015-12-09,Deep Edge-Aware Filters,http://videolectures.net/icml2015_ren_deep_filters,107
+2016-07-28,Adaptive Linked Data-driven Web Components: Building Flexible and Reusable Semantic Web Interfaces,http://videolectures.net/eswc2016_khalili_linked_data,107
+2016-09-05,Large Scale Machine Learning at Verizon: Theory and Applications,http://videolectures.net/kdd2016_stribling_scale_machine,106
+2016-02-10,Where to Buy It: Matching Street Clothing Photos in Online Shops,http://videolectures.net/iccv2015_berg_street_clothing,106
+2015-07-28,Reinforcement learning objectives constrain the cognitive map,http://videolectures.net/rldm2015_stachenfeld_cognitive_map,104
+2016-11-10,Is the Semantic Web what we expected? Adoption Patterns and Content-driven Challenges,http://videolectures.net/iswc2016_bizer_adoption_patterns,104
+2016-10-24,Normalized Cut meets MRF,http://videolectures.net/eccv2016_tang_normalized_cut,104
+2015-12-05,Compressing Neural Networks with the Hashing Trick,http://videolectures.net/icml2015_weinberger_neural_networks,103
+2015-05-08,Ali bo računalnik po sposobnosti prehitel človeške možgane?,http://videolectures.net/sinapsa_repovs_mladenic_racunalnik_ali_clovek,103
+2016-02-10,Webly Supervised Learning of Convolutional Networks,http://videolectures.net/iccv2015_chen_supervised_learning,103
+2015-10-02,Zakaj se sodniki motijo,http://videolectures.net/okroglamizapravo2015_leskovec_sodniki,102
+2016-02-10,Leave-One-Out Kernel Optimization for Shadow Detection,http://videolectures.net/iccv2015_yago_vicente_kernel_optimization,102
+2015-09-27,Large-scale log-determinant computation through stochastic Chebyshev expansions,http://videolectures.net/icml2015_han_log_determinant_computation,102
+2016-09-27,Towards Conversational Recommender Systems,http://videolectures.net/kdd2016_christakopoulou_recommender_systems,101
+2016-05-27,Towards Universal Paraphrastic Sentence Embeddings,http://videolectures.net/iclr2016_wieting_universal_paraphrastic,100
+2015-09-27,Deep Unsupervised Learning using Nonequilibrium Thermodynamics,http://videolectures.net/icml2015_sohl_dickstein_deep_unsupervised_learning,100
+2016-09-27,XGBoost: A Scalable Tree Boosting System,http://videolectures.net/kdd2016_chen_boosting_system,100
+2015-12-05,High Dimensional Bayesian Optimisation and Bandits via Additive Models,http://videolectures.net/icml2015_kandasamy_additive_models,98
+2016-09-09,Lifelong Machine Learning and Computer Reading the Web,http://videolectures.net/kdd2016_tutorial_lifelong_machine_learning,97
+2015-07-15,Combining Statistics and Semantics to Turn Data into Knowledge,http://videolectures.net/eswc2015_getoor_turn_data,97
+2016-07-28,"Wither OWL in a knowledge-graphed, Linked-Data World?",http://videolectures.net/eswc2016_hendler_wither_OWL,96
+2015-07-28,Bootstrapping Skills,http://videolectures.net/rldm2015_mankowitz_bootstrapping_skills,96
+2015-07-02,Automatic group happiness intensity analysis,http://videolectures.net/fgconference2015_goecke_intensity_analysis,95
+2016-05-27,BlackOut: Speeding up Recurrent Neural Network Language Models With Very Large Vocabularies,http://videolectures.net/iclr2016_ji_recurrent_neural,95
+2015-09-27,Learning to Search Better than Your Teacher,http://videolectures.net/icml2015_krishnamurthy_search_better,94
+2015-11-10,Networks of Linked Data Eddies: An Adaptive Web Query Processing Engine for RDF Data,http://videolectures.net/iswc2015_acosta_linked_data,94
+2016-03-07,Inference in kinetic Ising models: mean-field and Bayes estimators,http://videolectures.net/netadis2015_bachschmid_romano_kinetic_ising_models,94
+2016-09-09,Extracting Optimal Performance From Dynamic Time Warping,http://videolectures.net/kdd2016_tutorial_optimal_performance,94
+2015-03-06,Cross-lingual Global Media Monitoring,http://videolectures.net/cmuseminars_mladenic_media_monitoring,93
+2016-02-10,On the Visibility of Point Clouds,http://videolectures.net/iccv2015_tal_point_clouds,93
+2016-09-09,"Leveraging Propagation for Data Mining: Models, Algorithms and Applications",http://videolectures.net/kdd2016_tutorial_leveraging_propagation,93
+2015-10-02,"Okrogla miza ""Ali je lahko računalnik boljši od sodnika""",http://videolectures.net/okroglamizapravo2015_racunalnik_sodnik,93
+2016-09-16,Introduction to Spark 2.0,http://videolectures.net/kdd2016_tutorial_introduction_to_spark,92
+2015-07-15,Why Big Data Matters - a lot,http://videolectures.net/eswc2015_mayer_schoenberger_big_data,92
+2015-04-24,Računalniška analiza velikih socialnih omrežij,http://videolectures.net/kolokviji_leskovec_analiza_socialnih_omrezij,91
+2015-02-17,Analysis of epigenetics and chromatin states in normal and cancer cells,http://videolectures.net/mlpmsummerschool2014_boeva_epigenetics,90
+2015-09-27,Spectral MLE: Top-K Rank Aggregation from Pairwise Comparisons,http://videolectures.net/icml2015_suh_spectral_mle,90
+2016-10-06,Probability and statistics,http://videolectures.net/eswc2016_rupnik_probability_statistics,90
+2015-07-02,Perinasal Indicators of Deceptive Behavior,http://videolectures.net/fgconference2015_dcosta_deceptive_behavior,90
+2015-07-02,"Realistic Inverse Lighting from a Single 2D Image of a Face, Taken Under Unknown and Complex Lighting",http://videolectures.net/fgconference2015_shahlaei_complex_lighting,89
+2016-09-09,IoT Big Data Stream Mining,http://videolectures.net/kdd2016_tutorial_big_data_stream_mining,89
+2015-11-10,Building and Using a Knowledge Graph to Combat Human Trafficking ,http://videolectures.net/iswc2015_szekely_human_trafficking,89
+2015-12-05,Gated Feedback Recurrent Neural Networks,http://videolectures.net/icml2015_chung_neural_networks,87
+2016-09-27,node2vec: Scalable Feature Learning for Networks,http://videolectures.net/kdd2016_grover_feature_learning,87
+2015-12-05,Social Interaction in Global Networks,http://videolectures.net/icml2015_kleinberg_social_interaction,86
+2016-10-24,Learning without Forgetting,http://videolectures.net/eccv2016_li_without_forgetting,85
+2016-10-24,Opening remarks,http://videolectures.net/eccv2016_opening,85
+2016-02-10,Render for CNN: Viewpoint Estimation in Images Using CNNs Trained With Rendered 3D Model Views,http://videolectures.net/iccv2015_su_qi_viewpoint_estimation,84
+2016-10-12,Node Representation in Mining Heterogeneous Information Networks,http://videolectures.net/kdd2016_sun_information_networks,84
+2016-10-12,Serving a Billion Personalized News Feeds,http://videolectures.net/kdd2016_backstrom_news_feeds,83
+2015-09-27,A Multitask Point Process Predictive Model,http://videolectures.net/icml2015_lian_predictive_model,83
+2015-10-22,Information extraction with Linked Data,http://videolectures.net/eswc2015_augenstein_information_extraction,83
+2016-02-10,Aligning Books and Movies: Towards Story-Like Visual Explanations by Watching Movies and Reading Books,http://videolectures.net/iccv2015_zhu_aligning_books,83
+2015-09-27,Multi-Task Learning for Subspace Segmentation,http://videolectures.net/icml2015_wang_subspace_segmentation,82
+2015-09-27,Asymmetric Transfer Learning with Deep Gaussian Processes,http://videolectures.net/icml2015_kandemir_asymmetric_transfer_learning,82
+2016-02-10,Removing Rain From a Single Image via Discriminative Sparse Coding,http://videolectures.net/iccv2015_tan_removing_rain,82
+2015-09-27,Hidden Markov Anomaly Detection,http://videolectures.net/icml2015_goernitz_anomaly_detection,82
+2015-02-17,"Introduction to the bioinformatics of cancer: high-throughput sequencing of the genome, epigenome and transcriptome",http://videolectures.net/mlpmsummerschool2014_boeva_bioinformatics_cancer,81
+2015-10-21,Indexing of large n-gram collection,http://videolectures.net/sikdd2015_zajec_ngram_collection,80
+2016-02-10,MeshStereo: A Global Stereo Model With Mesh Alignment Regularization for View Interpolation,http://videolectures.net/iccv2015_zhang_global_stereo,80
+2015-09-27,Fixed-point algorithms for learning determinantal point processes,http://videolectures.net/icml2015_mariet_determinantal_point_processes,80
+2015-12-05,Trust Region Policy Optimization,http://videolectures.net/icml2015_schulman_policy_optimization,80
+2015-12-09,Jezikovna opremljenost slovenščine,http://videolectures.net/single_krek_jezikovna_opremljenost_slovenscine,79
+2015-12-05,Variational Inference with Normalizing Flows,http://videolectures.net/icml2015_jimenez_rezende_normalizing_flows,79
+2015-09-27,Improving the Gaussian Process Sparse Spectrum Approximation by Representing Uncertainty in Frequency Inputs,http://videolectures.net/icml2015_gal_frequency_inputs,78
+2015-09-27,Complete Dictionary Recovery Using Nonconvex Optimization,http://videolectures.net/icml2015_wright_nonconvex_optimization,77
+2016-02-10,3D Time-Lapse Reconstruction From Internet Photos,http://videolectures.net/iccv2015_martin_brualla_internet_photos,77
+2015-10-02,"Predstavitev projekta ""Pravo v dobi velikih podatkov""",http://videolectures.net/okroglamizapravo2015_zavrsnik_pravo_veliki_podatki,76
+2015-12-05,Markov Chain Monte Carlo and Variational Inference: Bridging the Gap,http://videolectures.net/icml2015_salimans_variational_inference,75
+2016-02-10,Lost Shopping! Monocular Localization in Large Indoor Spaces,http://videolectures.net/iccv2015_wang_lost_shopping,75
+2016-02-10,"Global, Dense Multiscale Reconstruction for a Billion Points",http://videolectures.net/iccv2015_ummenhofer_multiscale_reconstruction,75
+2015-09-27,Consistent estimation of dynamic and multi-layer block models,http://videolectures.net/icml2015_xu_block_models,74
+2015-12-05,Learning Program Embeddings to Propagate Feedback on Student Code,http://videolectures.net/icml2015_piech_learning_program,73
+2015-09-27,Guaranteed Tensor Decomposition: A Moment Approach,http://videolectures.net/icml2015_tang_tensor_decomposition,73
+2016-02-10,Multiple Hypothesis Tracking Revisited,http://videolectures.net/iccv2015_kim_multiple_hypothesis,73
+2016-06-15,Density Modeling of Images using a Generalized Normalization Transformation,http://videolectures.net/iclr2016_balle_density_modeling,73
+2016-09-09,Mining Reliable Information from Passively and Actively Crowdsourced Data,http://videolectures.net/kdd2016_tutorial_actively_crowdsourced_data,73
+2016-03-07,Learning multi-scale temporal dynamics with recurrent neural networks,http://videolectures.net/netadis2015_taylor_neural_networks,72
+2016-02-10,Polarized 3D: High-Quality Depth Sensing With Polarization Cues,http://videolectures.net/iccv2015_kadambi_polarization_cues,71
+2015-09-27,On Greedy Maximization of Entropy,http://videolectures.net/icml2015_sharma_greedy_maximization,71
+2016-10-05,Sentiment of Emojis,http://videolectures.net/single_kralj_novak_emojis,71
+2015-12-05,Unsupervised Domain Adaptation by Backpropagation,http://videolectures.net/icml2015_ganin_domain_adaptation,71
+2016-11-10,At the Intersection of Data Science and Language,http://videolectures.net/iswc2016_mckeown_data_science,70
+2015-07-28,Childhood Is Evolution’s Way of Performing Simulated Annealing: A life history perspective on explore-exploit tensions,http://videolectures.net/rldm2015_gopnik_simulated_annealing,70
+2015-09-27,Deterministic Independent Component Analysis,http://videolectures.net/icml2015_szepesvari_component_analysis,69
+2015-09-27,Distributed Gaussian Processes,http://videolectures.net/icml2015_deisenroth_distributed_gaussian_processes,68
+2015-09-27,Sparse Subspace Clustering with Missing Entries,http://videolectures.net/icml2015_vidal_sparse_subspace_clustering,68
+2015-07-28,The formation of habits: A computational model mixing reinforcement learning and Hebbian learning,http://videolectures.net/rldm2015_topalidou_hebbian_learning,68
+2016-10-05,A Big Data Perspective,http://videolectures.net/kdd2016_yu_big_data_perspective,68
+2016-10-05,Award Ceremony,http://videolectures.net/kdd2016_award_ceremony,67
+2016-11-07,Sequential Hypothesis Tests for  Markov Models of Time-Series Data,http://videolectures.net/kdd2016_virani_markov_models,67
+2015-07-15,Low-cost Open Data As-a-Service in the Cloud,http://videolectures.net/eswc2015_dimitrov_open_data,67
+2015-12-05,Towards a Learning Theory of Cause-Effect Inference,http://videolectures.net/icml2015_muandet_learning_theory,67
+2016-03-07,Information-theoretic bounds on learning network dynamics,http://videolectures.net/netadis2015_montanari_network_dynamics,66
+2016-02-10,Weakly supervised graph based semantic segmentation by learning communities of image-parts,http://videolectures.net/iccv2015_rahimi_supervised_graph,66
+2016-10-24,Real-Time 3D Reconstruction and 6-DoF Tracking with an Event Camera,http://videolectures.net/eccv2016_kim_event_camera,66
+2016-10-24,Grounding of Textual Phrases in Images by Reconstruction,http://videolectures.net/eccv2016_rohrbach_textual_phrases,65
+2015-07-02,Multimodal Machine Learning: Modeling Human Communication Dynamics,http://videolectures.net/fgconference2015_morency_human_communication,65
+2016-02-10,Learning Query and Image Similarities With Ranking Canonical Correlation Analysis,http://videolectures.net/iccv2015_yao_image_similarities,65
+2016-02-23,Awards,http://videolectures.net/iccv2015_awards,64
+2016-11-10,Artificial Intelligence to Win the Nobel Prize and Beyond: Creating the Engine for Scientific Discovery,http://videolectures.net/iswc2016_kitano_artificial_intelligence,64
+2015-09-27,The Ladder: A Reliable Leaderboard for Machine Learning Competitions,http://videolectures.net/icml2015_hardt_reliable_leaderboard,64
+2015-12-05,A Lower Bound for the Optimization of Finite Sums,http://videolectures.net/icml2015_agarwal_lower_bound,64
+2016-10-24,Beyond Correlation Filters: Learning Continuous Convolution Operators for Visual Tracking,http://videolectures.net/eccv2016_danelljan_visual_tracking,64
+2015-09-27,A Convex Optimization Framework for Bi-Clustering,http://videolectures.net/icml2015_xu_convex_optimization_framework,64
+2015-09-27,Towards a Lower Sample Complexity for Robust One-bit Compressed Sensing,http://videolectures.net/icml2015_zhu_compressed_sensing,63
+2016-02-10,Generating Notifications for Missing Actions: Don't Forget to Turn the Lights Off!,http://videolectures.net/iccv2015_soran_missing_actions,62
+2015-09-27,Controversy in mechanistic modelling with Gaussian processes,http://videolectures.net/icml2015_macdonald_husmeier_mechanistic_modelling,62
+2016-08-31,The Evolving Meaning of Information Security,http://videolectures.net/kdd2016_diffie_information_security,62
+2015-09-27,Algorithms for the Hard Pre-Image Problem of String Kernels and the General Problem of String Prediction,http://videolectures.net/icml2015_rolland_string_prediction,62
+2015-07-28,The Role of Orbitofrontal Cortex in Cognitive Planning in the Rat,http://videolectures.net/rldm2015_miller_cognitive_planning,62
+2016-02-10,Robust Nonrigid Registration by Convex Optimization,http://videolectures.net/iccv2015_chen_convex_optimization,61
+2016-02-10,Partial Person Re-Identification,http://videolectures.net/iccv2015_xiang_partial_person,61
+2016-02-10,Training a Feedback Loop for Hand Pose Estimation,http://videolectures.net/iccv2015_oberweger_feedback_loop,60
+2016-02-10,3D-Assisted Feature Synthesis for Novel Views of an Object,http://videolectures.net/iccv2015_su_feature_synthesis,60
+2015-12-20,Večjezični javni servisi v Sloveniji ,http://videolectures.net/elrc2015_panel_javni_servisi,60
+2015-07-15,A Comparison of Data Structures to Manage URIs on the Web of Data,http://videolectures.net/eswc2015_mavlyutov_web_data,60
+2016-11-15,Spatio-temporal clustering methods,http://videolectures.net/sikdd2016_senozetnik_clustering_methods,60
+2016-02-10,Bilinear CNN Models for Fine-Grained Visual Recognition,http://videolectures.net/iccv2015_lin_visual_recognition,59
+2015-12-05,Long Short-Term Memory Over Recursive Structures,http://videolectures.net/icml2015_zhu_recursive_structures,58
+2015-07-15,HAWK – Hybrid Question Answering using Linked Data ,http://videolectures.net/eswc2015_usbeck_linked_data,58
+2015-09-27,Optimizing Non-decomposable Performance Measures: A Tale of Two Classes,http://videolectures.net/icml2015_narasimhan_performance_measures,58
+2016-10-24,Deep Networks with Stochastic Depth,http://videolectures.net/eccv2016_sun_deep_networks,58
+2015-09-27,Surrogate Functions for Maximizing Precision at the Top,http://videolectures.net/icml2015_kar_surrogate_functions,58
+2015-02-17,Deciphering human non-coding DNA using machine learning approaches,http://videolectures.net/mlpmsummerschool2014_bourque_human_non_coding_DNA,57
+2016-09-01,Building apriori knowledge into conclusions drawn from simulations,http://videolectures.net/isba2016_diaconis_apriori_knowledge,57
+2015-12-05,Universal Value Function Approximators,http://videolectures.net/icml2015_schaul_universal_value,57
+2015-07-28,Utility-weighted sampling in decisions from experience,http://videolectures.net/rldm2015_lieder_utility_weighted,57
+2015-09-27,Intersecting Faces: Non-negative Matrix Factorization With New Guarantees,http://videolectures.net/icml2015_zou_intersecting_faces,57
+2015-07-15,Linked Data-as-a-Service: The Semantic Web Redeployed,http://videolectures.net/eswc2015_beek_semantic_web,57
+2015-12-05,Learning Transferable Features with Deep Adaptation Networks,http://videolectures.net/icml2015_long_deep_adaptation,57
+2016-02-10,Robust and Optimal Sum-of-Squares-Based Point-to-Plane Registration of Image Sets and Structured Scenes,http://videolectures.net/iccv2015_pani_pudel_image_sets,57
+2015-07-28,Multi-Objective Markov Decision Processes for Decision Support,http://videolectures.net/rldm2015_lizotte_decision_support,57
+2015-10-20,Opening up Serbia – The Serbian perspective on Open Education with BAEKTEL project an OER (Open Educational Resources) network,http://videolectures.net/internetofeducation2015_obradovic_opening_up,56
+2015-07-15,WordLift: Meaningful Navigation Systems and Content Recommendation for News Sites running WordPress,http://videolectures.net/eswc2015_savastano_wordpress,56
+2016-10-24,Target Response Adaptation for Correlation Filter Tracking,http://videolectures.net/eccv2016_bibi_target_response,56
+2015-09-27,Distributed Estimation of Generalized Matrix Rank: Efficient Algorithms and Lower Bounds,http://videolectures.net/icml2015_zhang_generalized_matrix_rank,56
+2015-12-05,Stochastic Optimization with Importance Sampling for Regularized Loss Minimization,http://videolectures.net/icml2015_zhao_loss_minimization,56
+2016-02-10,Learning Complexity-Aware Cascades for Deep Pedestrian Detection,http://videolectures.net/iccv2015_cai_pedestrian_detection,55
+2016-10-24,A Recurrent Encoder-Decoder Network for Sequential Face Alignment,http://videolectures.net/eccv2016_peng_face_alignment,55
+2015-09-27,A Provable Generalized Tensor Spectral Method for Uniform Hypergraph Partitioning,http://videolectures.net/icml2015_ghoshdastidar_tensor_spectral_method,55
+2016-02-10,Web-Scale Image Clustering Revisited,http://videolectures.net/iccv2015_kalantidis_image_clustering,55
+2015-12-01,securePART project with Alexandre Almeida,http://videolectures.net/esr2015_almeida_securepart_project,55
+2015-07-28,Efficient Coding and Choice Behavior,http://videolectures.net/rldm2015_woodford_choice_behavior,55
+2016-01-06,Online Tracking by Learning Discriminative Saliency Map with Convolutional Neural Network,http://videolectures.net/icml2015_hong_neural_network,55
+2015-09-27,Classification with Low Rank and Missing Data,http://videolectures.net/icml2015_livni_classification,55
+2015-09-27,CUR Algorithm for Partially Observed Matrices,http://videolectures.net/icml2015_xu_partially_observed_matrices,55
+2016-09-22,Email Volume Optimization at LinkedIn,http://videolectures.net/kdd2016_gupta_volume_optimization,54
+2015-01-30,Text Annotation using Background Knowledge,http://videolectures.net/single_rusu_text_annotation,54
+2015-09-27,Low-Rank Matrix Recovery from Row-and-Column Affine Measurements,http://videolectures.net/icml2015_wagner_matrix_recovery,54
+2015-09-27,Swept Approximate Message Passing for Sparse Estimation,http://videolectures.net/icml2015_tramel_sparse_estimation,54
+2016-02-10,Minimum Barrier Salient Object Detection at 80 FPS,http://videolectures.net/iccv2015_sclaroff_object_detection,54
+2015-10-21,Ingredients matching in bakery products,http://videolectures.net/sikdd2015_eftimov_bakery_products,54
+2015-10-21,A topological data analysis approach to the epidemiology of influenza,http://videolectures.net/sikdd2015_costa_topological_data,54
+2015-10-22,Building and using ontologies,http://videolectures.net/eswc2015_simperl_building_ontologies,53
+2015-09-27,On the Relationship between Sum-Product Networks and Bayesian Networks,http://videolectures.net/icml2015_zhao_relationship,52
+2015-10-21,Inverted Heuristics in Subgroup Discovery,http://videolectures.net/sikdd2015_valmarska_inverted_heuristics,52
+2015-12-05,Nested Sequential Monte Carlo Methods,http://videolectures.net/icml2015_naesseth_nested_sequential,52
+2015-10-22,Big Data technology for systems monitoring in Energy - BigDataEurope,http://videolectures.net/emender2015_androutsopoulos_big_data,52
+2015-10-21,Modelling in Energy Related Scenarios,http://videolectures.net/sikdd2015_kenda_energy_scenarios,52
+2015-02-17,Methodological aspects in integromics: integrating multiple omics data sets,http://videolectures.net/mlpmsummerschool2014_van_steen_integromics,52
+2016-10-24,Learning a Predictable and Generative Vector Representation for Objects,http://videolectures.net/eccv2016_girdhar_vector_representation,52
+2015-10-20,MyMachine – from Kindergarten to Industry introducing a Creative Approach to all levels in Education,http://videolectures.net/internetofeducation2015_crnko_grymonprez_mymachine,52
+2016-09-27,Smart Reply: Automated Response Suggestion for Email,http://videolectures.net/kdd2016_kannan_smart_reply,52
+2016-02-10,"Segment-Phrase Table for Semantic Segmentation, Visual Entailment and Paraphrasing",http://videolectures.net/iccv2015_divvala_semantic_segmentation,51
+2015-09-27,Learning from Corrupted Binary Labels via Class-Probability Estimation,http://videolectures.net/icml2015_menon_corrupted_binary_labels,51
+2016-10-24,Modeling Context in Referring Expressions,http://videolectures.net/eccv2016_yu_modeling_context,51
+2016-10-24,LIFT: Learned Invariant Feature Transform,http://videolectures.net/eccv2016_yi_feature_transform,51
+2015-09-27,Theory of Dual-sparse Regularized Randomized Reduction,http://videolectures.net/icml2015_yang_randomized_reduction,51
+2016-10-24,Identity Mappings in Deep Residual Networks,http://videolectures.net/eccv2016_zhang_residual_networks,51
+2015-09-27,PU Learning for Matrix Completion,http://videolectures.net/icml2015_hsieh_matrix_completion,50
+2015-10-22,Ontology reasoning,http://videolectures.net/eswc2015_fundulaki_ontology_reasoning,50
+2016-05-31,Parallel Multi-Objective Evolutionary Algorithms,http://videolectures.net/bioma2016_talbi_evolutionary_algorithms,50
+2015-09-27,Moderated and Drifting Linear Dynamical Systems,http://videolectures.net/icml2015_guan_linear_dynamical_systems,50
+2015-10-21,The Pursuit of Journalistic News Values through Text Mining Techniques,http://videolectures.net/sikdd2015_belyaeva_pursuit_news,50
+2015-09-27,A Unifying Framework of Anytime Sparse Gaussian Process Regression Models with Stochastic Variational Inference for Big Data,http://videolectures.net/icml2015_low_unifying_framework,50
+2015-09-27,Online Time Series Prediction with Missing Data,http://videolectures.net/icml2015_anava_time_series_prediction,50
+2015-07-15,RDF-Ext JavaScript library for working with RDF & Linked Data,http://videolectures.net/eswc2015_luggen_rdf,50
+2015-12-05,How Hard is Inference for Structured Prediction?,http://videolectures.net/icml2015_sontag_structured_prediction,50
+2015-09-27,Log-Euclidean Metric Learning on Symmetric Positive Definite Manifold with Application to Image Set Classification,http://videolectures.net/icml2015_xin_log_euclidean_metric_learning,49
+2015-12-05,A Nearly-Linear Time Framework for Graph-Structured Sparsity ,http://videolectures.net/icml2015_schmidt_time_framework,49
+2015-07-15,Using Ontologies For Modeling Virtual Reality Scenarios,http://videolectures.net/eswc2015_dragoni_reality_scenarios,49
+2015-09-27,Robust Estimation of Transition Matrices in High Dimensional Heavy-tailed Vector Autoregressive Processes,http://videolectures.net/icml2015_xu_transition_matrices,49
+2015-09-27,Entropy-Based Concentration Inequalities for Dependent Variables,http://videolectures.net/icml2015_ralaivola_dependent_variables,49
+2016-02-10,Shape Interaction Matrix Revisited and Robustified: Efficient Subspace Clustering With Corrupted and Incomplete Data,http://videolectures.net/iccv2015_ji_incomplete_data,49
+2016-09-09,Business Applications of Predicitive Modeling at Scale,http://videolectures.net/kdd2016_tutorial_business_applications,48
+2016-09-09,Algorithmic Bias: From Discrimination Discovery to Fairness-Aware Data Mining,http://videolectures.net/kdd2016_tutorial_algorithmic_bias,48
+2015-12-05,Learning Word Representations with Hierarchical Sparse Coding,http://videolectures.net/icml2015_yogatama_sparse_coding,48
+2015-07-28,Reinforcement Learning in Decentralized Stochastic Control Systems with Partial History Sharing,http://videolectures.net/rldm2015_arabneydi_history_sharing,48
+2016-09-25,"""Why Should I Trust you?"" Explaining the Predictions of Any Classifier",http://videolectures.net/kdd2016_ribeiro_any_classifier,48
+2016-10-24,Less is More: Towards Compact CNNs,http://videolectures.net/eccv2016_zhou_compact_cnns,48
+2015-09-27,Unsupervised Riemannian Metric Learning for Histograms Using Aitchison Transformations,http://videolectures.net/icml2015_le_histograms,48
+2015-07-15,RDF Digest: Efficient Summarization of RDF/S KBs,http://videolectures.net/eswc2015_troullinou_rdf_digest,47
+2016-10-24,Joint Face Alignment and 3D Face Reconstruction,http://videolectures.net/eccv2016_liu_face_alignment,47
+2015-09-27,Streaming Sparse Principal Component Analysis,http://videolectures.net/icml2015_yang_principal_component_analysis,47
+2016-02-10,Registering Images to Untextured Geometry Using Average Shading Gradients,http://videolectures.net/iccv2015_ploetz_registering_images,47
+2016-02-10,Semantic Component Analysis,http://videolectures.net/iccv2015_murdock_component_analysis,47
+2015-07-28,Escaping Groundhog Day,http://videolectures.net/rldm2015_macglashan_groundhog_day,47
+2015-09-27,Consistent Multiclass Algorithms for Complex Performance Measures,http://videolectures.net/icml2015_narasimhan_complex_performance_measures,47
+2016-11-15,Modeling Probability of Default and Credit Limits,http://videolectures.net/sikdd2016_herga_modeling_probability,47
+2015-11-10,Why Harmonized Data Matters: Semantics and Inference Processing in Finance,http://videolectures.net/iswc2015_atkin_harmonized_data,47
+2015-12-05,Simple regret for infinitely many armed bandits,http://videolectures.net/icml2015_carpentier_armed_bandits,46
+2016-09-09,"Collective Sensemaking via Social Sensors: Extracting, Profiling, Analyzing, and Predicting Real-world Events",http://videolectures.net/kdd2016_tutorial_social_sensors,46
+2016-09-25,Structured Doubly Stochastic Matrix for Graph Based Clustering,http://videolectures.net/kdd2016_wang_stochastic_matrix,46
+2015-09-27,Context-based Unsupervised Data Fusion for Decision Making,http://videolectures.net/icml2015_van_der_schaar_decision_making,46
+2015-12-05,PASSCoDe: Parallel ASynchronous Stochastic dual Co-ordinate Descent,http://videolectures.net/icml2015_hsieh_stochastic_dual,46
+2016-09-27,Continuous Experience-aware Language Model,http://videolectures.net/kdd2016_mukherjee_language_model,46
+2016-09-16,Streaming Analytics,http://videolectures.net/kdd2016_tutorial_streaming_analytics,46
+2016-10-24,Deep Reconstruction-Classification Networks for Unsupervised Domain Adaptation,http://videolectures.net/eccv2016_ghifary_domain_adaptation,46
+2016-09-16,Big Natural Language Data Processing,http://videolectures.net/kdd2016_tutorial_language_data_processing,45
+2015-09-27,Structural Maxent Models,http://videolectures.net/icml2015_kuznetsov_structural_maxent_models,45
+2015-12-05,Stochastic Primal-Dual Coordinate Method for Regularized Empirical Risk Minimization,http://videolectures.net/icml2015_zhang_risk_minimization,45
+2015-07-02,Modeling Transition Patterns Between Events for Temporal Human Action Segmentation and Classification,http://videolectures.net/fgconference2015_kim_human_action,45
+2015-12-05,Optimizing Neural Networks with Kronecker-factored Approximate Curvature,http://videolectures.net/icml2015_martens_approximate_curvature,45
+2015-12-05,Adding vs. Averaging in Distributed Primal-Dual Optimization,http://videolectures.net/icml2015_smith_dual_optimization,45
+2015-09-27,Off-policy Model-based Learning under Unknown Factored Dynamics,http://videolectures.net/icml2015_hallak_unknown_factored_dynamics,45
+2015-12-05,Scalable Nonparametric Bayesian Inference on Point Processes with Gaussian Processes,http://videolectures.net/icml2015_kom_samo_gaussian_processes,45
+2016-09-09,Scalable Learning of Graphical Models,http://videolectures.net/kdd2016_tutorial_scalable_learning,45
+2015-12-05,An Asynchronous Distributed Proximal Gradient Method for Composite Convex Optimization,http://videolectures.net/icml2015_iyengar_convex_optimization,44
+2015-12-05,DiSCO: Distributed Optimization for Self-Concordant Empirical Loss,http://videolectures.net/icml2015_zhang_empirical_loss,44
+2016-02-10,Low-Rank Matrix Factorization Under General Mixture Noise Distributions,http://videolectures.net/iccv2015_cao_matrix_factorization,44
+2016-07-28,Minute of Madness,http://videolectures.net/eswc2016_minute_madness,44
+2015-07-15,FrameBase: Representing N-ary Relations using Semantic Frames,http://videolectures.net/eswc2015_rouces_semantic_frames,44
+2016-11-15,Information Flow Between News Articles: Slovene Media Case Study,http://videolectures.net/sikdd2016_choloniewski_slovene_media,44
+2015-07-02,A Random Forest Approach to Segmenting and Classifying Gestures,http://videolectures.net/fgconference2015_joshi_classifying_gestures,44
+2015-07-02,Expression Robust 3D Face Recognition by Matching Multi-component Local Shape Descriptors on the Nasal and Adjoining Cheek Regions,http://videolectures.net/fgconference2015_gao_cheek_regions,44
+2015-12-05,Learning Submodular Losses with the Lovasz Hinge,http://videolectures.net/icml2015_yu_lovasz_hinge,44
+2015-07-15,Minute of Madness,http://videolectures.net/eswc2015_minute_of_madness,44
+2016-10-24,Learning to Refine Object Segments,http://videolectures.net/eccv2016_pinheiro_refine_object,44
+2015-09-27,Ranking from Stochastic Pairwise Preferences: Recovering Condorcet Winners and Tournament Solution Sets at the Top,http://videolectures.net/icml2015_rajkumar_stochastic_pairwise_preferences,44
+2016-10-12,Bayesian optimization and its applications for autonomous vehicles,http://videolectures.net/kdd2016_schneider_autonomous_vehicles,43
+2015-12-05,Harmonic Exponential Families on Manifolds,http://videolectures.net/icml2015_cohen_exponential_families,43
+2016-02-10,Airborne Three-Dimensional Cloud Tomography,http://videolectures.net/iccv2015_levis_cloud_tomography,43
+2015-02-17,Principles of genomic data analysis,http://videolectures.net/mlpmsummerschool2014_dopazo_genomic_data,43
+2016-10-24,Capturing Dynamic Textured Surfaces of Moving Targets,http://videolectures.net/eccv2016_li_moving_targets,43
+2015-12-05,A Stochastic PCA and SVD Algorithm with an Exponential Convergence Rate,http://videolectures.net/icml2015_shamir_convergence_rate,43
+2016-02-10,Flow Fields: Dense Correspondence Fields for Highly Accurate Large Displacement Optical Flow Estimation,http://videolectures.net/iccv2015_bailer_flow_fields,43
+2016-09-22,Data-Driven Metric Development for Online Controlled Experiments: Seven Lessons Learned,http://videolectures.net/kdd2016_shi_lessons_learned,43
+2016-09-22,Collaborative Knowledge Base Embedding for Recommender Systems,http://videolectures.net/kdd2016_zhang_recommender_systems,43
+2016-09-05,Big Data Tools and Solutions: The Myths and the Reality,http://videolectures.net/kdd2016_panel_big_data_tools_solutions,43
+2016-09-05,Bayesian Optimization and Embedded Learning Systems,http://videolectures.net/kdd2016_schneider_learning_systems,43
+2016-10-24,Multi-View Inverse Rendering under Arbitrary Illumination and Albedo,http://videolectures.net/eccv2016_torii_inverse_rendering,43
+2016-10-24,Robust Facial Landmark Detection via Recurrent Attentive-Refinement Networks,http://videolectures.net/eccv2016_xing_landmark_detection,42
+2016-09-22,Large-Scale Item Categorization in e-Commerce Using Multiple Recurrent Neural Networks,http://videolectures.net/kdd2016_ha_neural_networks,42
+2015-07-02,Estimating smile intensity: A better way,http://videolectures.net/fgconference2015_girard_smile_intensity,42
+2016-11-15,Data Analytics in Aquaculture,http://videolectures.net/sikdd2016_pita_costa_aquaculture,42
+2015-11-10,LinkDaViz - Automatic Binding of Linked Data to Visualizations,http://videolectures.net/iswc2015_thellmann_automatic_binding,42
+2016-09-01,A subjective tour through foundations and modern trends,http://videolectures.net/isba2016_petrone_modern_trends,42
+2015-12-05,Boosted Categorical Restricted Boltzmann Machine for Computational Prediction of Splice Junctions,http://videolectures.net/icml2015_lee_splice_junctions,42
+2015-09-27,Scalable Model Selection for Large-Scale Factorial Relational Models,http://videolectures.net/icml2015_feng_factorial_relational_models,42
+2015-12-20,Jeziki in jezikovne tehnologije v Sloveniji ,http://videolectures.net/elrc2015_krek_jezikovne_tehnologije,42
+2015-07-15,PADTUN - Using Semantic Technologies in Tunnel Diagnosis and Maintenance Domain,http://videolectures.net/eswc2015_dimitrova_tunnel_diagnosis,41
+2015-09-27,Convex Formulation for Learning from Positive and Unlabeled Data,http://videolectures.net/icml2015_du_plessis_convex_formulation,41
+2016-10-24,Deep Automatic Portrait Matting,http://videolectures.net/eccv2016_shen_portrait_matting,41
+2015-12-05,Privacy for Free: Posterior Sampling and Stochastic Gradient Monte Carlo,http://videolectures.net/icml2015_wang_stochastic_gradient,41
+2015-09-27,Non-Linear Cross-Domain Collaborative Filtering via Hyper-Structure Transfer,http://videolectures.net/icml2015_wu_collaborative_filtering,41
+2015-12-05,Variational Generative Stochastic Networks with Collaborative Shaping,http://videolectures.net/icml2015_bachman_collaborative_shaping,41
+2016-09-28,Opening Ceremony,http://videolectures.net/kdd2016_opening_ceremony,41
+2015-07-02,Shared Representation Learning for Heterogenous Face Recognition,http://videolectures.net/fgconference2015_lei_face_recognition,41
+2015-09-27,Multiview Triplet Embedding: Learning Attributes in Multiple Maps,http://videolectures.net/icml2015_amid_multiple_maps,40
+2015-12-05,Stochastic Dual Coordinate Ascent with Adaptive Probabilities,http://videolectures.net/icml2015_qu_adaptive_probabilities,40
+2015-12-21,Linguistic annotation of social media corpora: To what extent do we have to adapt existing encoding standards and tag sets?,http://videolectures.net/slovenscina2015_beisswenger_linguistic_annotation,40
+2016-09-05,Can You Teach The Elephant To Dance? AKA: Culture Eats Data Science for Breakfast,http://videolectures.net/kdd2016_becher_data_science,40
+2015-09-27,Enabling scalable stochastic gradient-based inference for Gaussian processes by employing the Unbiased LInear System SolvEr (ULISSE),http://videolectures.net/icml2015_filippone_unbiased_linear_system,40
+2015-07-15,A Survey of HTTP Caching Implementations on the Open Semantic Web,http://videolectures.net/eswc2015_kjernsmo_semantic_web,40
+2016-09-05,Accelerating the Race to Autonomous Cars,http://videolectures.net/kdd2016_shapiro_autonomous_cars,40
+2015-09-27,Alpha-Beta Divergences Discover Micro and Macro Structures in Data,http://videolectures.net/icml2015_levine_alpha_beta_divergences,40
+2016-02-10,"Uncovering Interactions and Interactors: Joint Estimation of Head, Body Orientation and F-Formations From Surveillance Videos",http://videolectures.net/iccv2015_varadarajan_surveillance_videos,40
+2015-12-05,A Hybrid Approach for Probabilistic Inference using Random Projections,http://videolectures.net/icml2015_ermon_hybrid_approach,40
+2016-07-28,KE4IR: Knowledge Extraction for Information Retrieval,http://videolectures.net/eswc2016_rospocher_information_retrieval,39
+2015-07-28,Gambling pigeons: Primary rewards are not all that matter,http://videolectures.net/rldm2015_spetch_gambling_pigeons,39
+2015-12-05,Safe Exploration for Optimization with Gaussian Processes,http://videolectures.net/icml2015_gotovos_gaussian_processes,39
+2015-12-05,Global Convergence of Stochastic Gradient Descent for Some Non-convex Matrix Problems,http://videolectures.net/icml2015_de_sa_matrix_problems,39
+2016-10-12,Inside the Atoms: Mining a Network of Networks and Beyond,http://videolectures.net/kdd2016_tong_mining_network,39
+2016-10-24,Learning Image Matching by Simply Watching Video,http://videolectures.net/eccv2016_kneip_image_matching,39
+2015-09-27,Fast Kronecker Inference in Gaussian Processes with non-Gaussian Likelihoods,http://videolectures.net/icml2015_flaxman_fast_kronecker_inference,39
+2016-02-10,Multi-Image Matching via Fast Alternating Minimization,http://videolectures.net/iccv2015_zhou_alternating_minimization,39
+2015-11-10,LDQL: A Query Language for the Web of Linked Data,http://videolectures.net/iswc2015_hartig_query_language,38
+2015-07-15,Large Scale Rule-Based Reasoning Using a Laptop,http://videolectures.net/eswc2015_peters_reasoning,38
+2015-12-05,Latent Gaussian Processes for Distribution Estimation of Multivariate Categorical Data,http://videolectures.net/icml2015_gal_categorical_data,38
+2016-09-05,The Wisdom of Crowds: Best Practices for Data Prep & Machine Learning derived from Millions of Data Science Workflows,http://videolectures.net/kdd2016_mierswa_best_practices,38
+2015-09-27,Finding Linear Structure in Large Datasets with Scalable Canonical Correlation Analysis,http://videolectures.net/icml2015_ma_large_datasets,38
+2016-10-12,Stream Data Mining: A Big Data Perspective,http://videolectures.net/kdd2016_khan_data_perspective,37
+2016-10-12,Foundations of Causal Discovery,http://videolectures.net/kdd2016_eberhardt_causal_discovery,37
+2016-09-25,Joint Community and Structural Hole Spanner Detection via Harmonic Modularity,http://videolectures.net/kdd2016_he_structural_hole,37
+2016-02-10,Dense Semantic Correspondence Where Every Pixel is a Classifier,http://videolectures.net/iccv2015_valmadre_semantic_correspondence,37
+2016-03-07,A matrix product algorithm for the far-from-equilibrium evolution of dynamical processes on networks,http://videolectures.net/netadis2015_de_bacco_dynamical_processes,37
+2015-07-02,An Overview of Face De-identification in Still Images and Videos,http://videolectures.net/fgconference2015_ribaric_face_deidentification,36
+2016-09-22,An Empirical Study on Recommendation with Multiple Types of Feedback,http://videolectures.net/kdd2016_tang_empirical_study,36
+2016-10-12,"Challenges of quantifying fashion data: creativity, art and emotions",http://videolectures.net/kdd2016_eberhard_oh_fashion_data,36
+2015-12-05,DP-space: Bayesian Nonparametric Subspace Clustering with Small-variance Asymptotics,http://videolectures.net/icml2015_wang_bayesian_nonparametric,36
+2016-10-25,Ranking Research Institutions Based On Relative Academic Conferences,http://videolectures.net/kdd2016_tavabi_research_institutions,36
+2015-09-27,Low Rank Approximation using Error Correcting Coding Matrices,http://videolectures.net/icml2015_ubaru_coding_matrices,36
+2016-10-24,Semantic Object Parsing with Graph LSTM,http://videolectures.net/eccv2016_shen_object_parsing,36
+2016-09-16,Getting Started with Amazon Web Services Bootcamp,http://videolectures.net/kdd2016_tutorial_web_services_bootcamp,35
+2016-11-10,Opening Ceremony,http://videolectures.net/iswc2016_chairs_opening_ceremony,35
+2016-09-05,Learning Sparse Models at Scale,http://videolectures.net/kdd2016_herbrich_sparse_models,35
+2016-09-27,Structural Deep Network Embedding,http://videolectures.net/kdd2016_wang_network_embedding,35
+2015-11-10,Content-based recommendations via DBpedia and Freebase: a case study in the music domain,http://videolectures.net/iswc2015_tomeo_knowledge_graphs,35
+2015-07-15,Automating RDF Dataset Transformation and Enrichment,http://videolectures.net/eswc2015_sherif_dataset_transformation,35
+2015-12-05,Scalable Bayesian Optimization Using Deep Neural Networks,http://videolectures.net/icml2015_snoek_neural_networks,35
+2015-09-27,A Deterministic Analysis of Noisy Sparse Subspace Clustering for Dimensionality-reduced Data,http://videolectures.net/icml2015_wang_dimensionality_reduced_data,35
+2015-09-27,Submodularity in Data Subset Selection and Active Learning,http://videolectures.net/icml2015_wei_submodularity,35
+2016-03-07,Inference for dynamics of continuous variables: the Extended Plefka expansion with hidden nodes,http://videolectures.net/netadis2015_bravi_continuous_variables,35
+2015-09-27,Coresets for Nonparametric Estimation - the Case of DP-Means,http://videolectures.net/icml2015_bachem_nonparametric_estimation,35
+2016-03-07,Inference for piecewise-constant gaussian graphical models,http://videolectures.net/netadis2015_gibberd_gaussian_graphical_models,35
+2016-10-06,Information extraction,http://videolectures.net/eswc2016_demidova_information_extraction,34
+2016-11-10,VoldemortKG: Mapping Schema.org Entities to Linked Open Data,http://videolectures.net/iswc2016_tonon_mapping_schema,34
+2016-10-24,"Linear depth estimation from an uncalibrated, monocular polarisation image",http://videolectures.net/eccv2016_smith_linear_depth,34
+2015-12-05,Probabilistic Backpropagation for Scalable Learning of Bayesian Neural Networks,http://videolectures.net/icml2015_hernandez_lobato_bayesian_neural,34
+2015-07-15, A Linked Data-Based Decision Tree Classifier to Review Movies,http://videolectures.net/eswc2015_aldarra_review_movies,34
+2015-12-05,Optimal Regret Analysis of Thompson Sampling in Stochastic Multi-armed Bandit Problem with Multiple Plays,http://videolectures.net/icml2015_komiyama_bandit_problem,34
+2016-02-10,Camera Pose Voting for Large-Scale Image-Based Localization,http://videolectures.net/iccv2015_zeisl_pose_voting,34
+2016-11-10,QuerioDALI: Question Answering over Dynamic and Linked Knowledge Graphs,http://videolectures.net/iswc2016_lopez_knowledge_graphs,34
+2015-07-28,Dopamine type 2 receptors control inverse temperature beta for transition from perceptual inference to reinforcement learning,http://videolectures.net/rldm2015_lee_reinforcement_learning,34
+2015-09-27,Safe Subspace Screening for Nuclear Norm Regularized Least Squares Problems,http://videolectures.net/icml2015_zhou_safe_subspace_screening,34
+2015-10-21,Forecasting sales based on card transactions data,http://videolectures.net/sikdd2015_moraru_forecasting_sales,34
+2015-12-05,Abstraction Selection in Model-based Reinforcement Learning,http://videolectures.net/icml2015_jiang_reinforcement_learning,34
+2015-12-05,Generative Moment Matching Networks,http://videolectures.net/icml2015_swersky_matching_networks,34
+2015-09-27,Double Nyström Method: An Efficient and Accurate Nyström Scheme for Large-Scale Data Sets,http://videolectures.net/icml2015_lim_large_scale_data_sets,33
+2015-07-02,De-Identifying Facial Images Using Projections on Hyperspheres,http://videolectures.net/fgconference2015_tefas_facial_images,33
+2016-10-12,Improving Demand Prediction in Bike Sharing System by Learning Global Features,http://videolectures.net/kdd2016_zeng_global_features,33
+2015-12-05,"Rademacher Observations, Private Data, and Boosting",http://videolectures.net/icml2015_patrini_rademacher_observations,33
+2016-03-07,Correlations and signatures of criticality in neural population models,http://videolectures.net/netadis2015_macke_population_models,33
+2016-07-28,Controlling Leakage and Disclosure Risk in Semantic Big Data pipelines,http://videolectures.net/eswc2016_damiani_data_pipelines,33
+2015-12-05,Weight Uncertainty in Neural Network,http://videolectures.net/icml2015_blundell_neural_network,33
+2015-12-05,Gradient-based Hyperparameter Optimization through Reversible Learning,http://videolectures.net/icml2015_duvenaud_reversible_learning,33
+2015-07-02,Multi-sensor System for Driver’s Hand-Gesture Recognition,http://videolectures.net/fgconference2015_molchanov_hand_gesture,33
+2016-11-10,Capturing Industrial Information Models with Ontologies and Constraints,http://videolectures.net/iswc2016_kharlamov_industrial_information,32
+2015-09-27,Convergence rate of Bayesian tensor estimator and its minimax optimality,http://videolectures.net/icml2015_suzuki_convergence_rate,32
+2015-09-27,Yinyang K-Means: A Drop-In Replacement of the Classic K-Means with Consistent Speedup,http://videolectures.net/icml2015_shen_yinyang_k_means,32
+2015-07-28,Self-reinforcing expectancy effects on pain: Behavioral and brain mechanisms,http://videolectures.net/rldm2015_jepma_expectancy_effects,32
+2016-11-10,SPARQLGX: Efficient Distributed Evaluation of SPARQL with Apache Spark,http://videolectures.net/iswc2016_graux_apache_spark,32
+2015-07-15,RODI: A Benchmark for Automatic Mapping Generation in Relational-to-Ontology Data Integration,http://videolectures.net/eswc2015_pinkel_data_integration,32
+2016-11-10,SPARQL-to-SQL on Internet of Things Databases and Streams,http://videolectures.net/iswc2016_siow_databases_streams,32
+2016-10-24,Ambient Sound Provides Supervision for Visual Learning,http://videolectures.net/eccv2016_owens_ambient_sound,32
+2015-12-05,Learning Treatment Policies in Mobile Health,http://videolectures.net/icml2015_murphy_mobile_health,32
+2016-09-05,Computational Social Science: Exciting Progress and Future Challenges,http://videolectures.net/kdd2016_watts_social_science,32
+2015-02-17,How to make good use of funding programmes for your own career development,http://videolectures.net/mlpmsummerschool2014_wegener_career_development,32
+2016-11-10,DeFacto - Temporal and multilingual Deep Fact Validation,http://videolectures.net/iswc2016_ngonga_ngomo_defacto,31
+2016-01-13,DESTRIERO project with Elena Francioni,http://videolectures.net/esr2015_francioni_destriero_project,31
+2015-09-27,Feature-Budgeted Random Forest,http://videolectures.net/icml2015_nan_random_forest,31
+2015-12-05,Un-regularizing: approximate proximal point and faster stochastic algorithms for empirical risk minimization,http://videolectures.net/icml2015_frostig_risk_minimization,31
+2016-11-10,Building and Exploring National-wide Enterprise Knowledge Graphs for Investment Analysis in an Incremental Way,http://videolectures.net/iswc2016_fang_knowledge_graphs,31
+2015-10-20,Opening up Macedonia – The Macedonian perspective on Open Education,http://videolectures.net/internetofeducation2015_stojanovska_opening_up,31
+2015-07-28,"Neural coding of upshifted, downshifted, and blocked outcomes in the rat (lateral) orbitofrontal cortex",http://videolectures.net/rldm2015_schoenbaum_neural_coding,31
+2016-09-27,Point-of-Interest Recommendations: Learning Potential Check-ins from Friends,http://videolectures.net/kdd2016_li_interest_recommendations,31
+2016-02-10,SPM-BP: Sped-up PatchMatch Belief Propagation for Continuous MRFs,http://videolectures.net/iccv2015_li_belief_propagation,31
+2015-12-05,Telling cause from effect in deterministic linear dynamical systems,http://videolectures.net/icml2015_shajarisales_dynamical_systems,31
+2015-09-27,Budget Allocation Problem with Multiple Advertisers: A Game Theoretic View,http://videolectures.net/icml2015_yabe_budget_allocation_problem,31
+2015-07-15,A Context-Based Semantics for SPARQL Property Paths over the Web,http://videolectures.net/eswc2015_hartig_sparql_paths,31
+2015-07-02,Hierarchical Hybrid Statistic based Video Binary Code and Its Application to Face Retrieval in TV-Series,http://videolectures.net/fgconference2015_chen_face_retrieval,31
+2015-09-27,An Explicit Sampling Dependent Spectral Error Bound for Column Subset Selection,http://videolectures.net/icml2015_yang_spectral_error,31
+2015-12-05,Manifold-valued Dirichlet Processes,http://videolectures.net/icml2015_kim_dirichlet_processes,31
+2016-10-20,BigData processing at present and future LHC experiments,http://videolectures.net/kolokviji_kersevan_bigdata_processing,31
+2015-09-27,Threshold Influence Model for Allocating Advertising Budgets,http://videolectures.net/icml2015_miyauchi_advertising_budgets,30
+2015-12-05,Scalable Variational Inference in Log-supermodular Models,http://videolectures.net/icml2015_djolonga_supermodular_models,30
+2015-12-05,Scaling up Natural Gradient by Sparsely Factorizing the Inverse Fisher Matrix,http://videolectures.net/icml2015_grosse_fisher_matrix,30
+2015-09-27,Bayesian Multiple Target Localization,http://videolectures.net/icml2015_frazier_target_localization,30
+2016-10-12,A Generative Model of Urban Activities from Cellular Data,http://videolectures.net/kdd2016_yin_generative_models,30
+2016-11-10,"Querying Wikidata: Comparing SPARQL, Relational and Graph Databases",http://videolectures.net/iswc2016_hernandez_querying_wikidata,30
+2015-12-05,Adaptive Stochastic Alternating Direction Method of Multipliers,http://videolectures.net/icml2015_zhao_direction_method,30
+2016-10-12,Statistical Methods for Modeling Network Distributions,http://videolectures.net/kdd2016_neville_network_distributions,30
+2015-09-27,Generalization error bounds for learning to rank: Does the length of document lists matter?,http://videolectures.net/icml2015_chaudhuri_error_bounds,30
+2015-09-27,MRA-based Statistical Learning from Incomplete Rankings,http://videolectures.net/icml2015_sibony_incomplete_rankings,30
+2015-10-22,How to monitor global media?,http://videolectures.net/eswc2015_grobelnik_global_media,30
+2015-07-15,Inductive Classification Through Evidence-Based Models and Their Ensembles,http://videolectures.net/eswc2015_rizzo_inductive_classification,30
+2015-12-05,Discovering Temporal Causal Relations from Subsampled Data,http://videolectures.net/icml2015_zhang_subsampled_data,30
+2016-10-24,An Efficient Fusion Move Algorithm for the Minimum Cost Lifted Multicut Problem,http://videolectures.net/eccv2016_beier_efficient_fusion,30
+2015-12-05,Binary Embedding: Fundamental Limits and Fast Algorithm,http://videolectures.net/icml2015_caramanis_fast_algorithm,30
+2016-10-24,Multi-view 3D Models from Single Images With a Convolutional Network,http://videolectures.net/eccv2016_tatarchenko_convolutional_networks,30
+2016-11-07,"Predicting Trust Relations Among Users in a Social Network: The Role of Influence, Cohesion and Valence",http://videolectures.net/kdd2016_vedula_trust_relations,30
+2016-10-24,Top-down Neural Attention by Excitation Backprop,http://videolectures.net/eccv2016_sclaroff_excitation_backprop,30
+2015-07-15,Utilizing the Open Movie Data Base for Predicting the Review Class of Movies,http://videolectures.net/eswc2015_schaible_movie_data,29
+2016-10-12,Disease Propagation in Social Networks: A Novel Study of Infection Genesis and Spread on Twitter,http://videolectures.net/kdd2016_shah_infection_genesis,29
+2016-02-10,Opening the Black Box: Hierarchical Sampling Optimization for Estimating Human Hand Pose,http://videolectures.net/iccv2015_taylor_hierarchical_sampling,29
+2016-09-27,Goal-Directed Inductive Matrix Completion,http://videolectures.net/kdd2016_si_matrix_completion,29
+2016-09-27,DeepIntent: Learning Attentions for Online Advertising with Recurrent Neural Networks,http://videolectures.net/kdd2016_zhai_neural_networks,29
+2015-09-27,Complex Event Detection using Semantic Saliency and Nearly-Isotonic SVM,http://videolectures.net/icml2015_chang_complex_event_detection,29
+2015-07-15,Introduction to the Linked Data Mining Challenge,http://videolectures.net/eswc2015_ristoski_data_mining,29
+2015-09-27,An Online Learning Algorithm for Bilinear Models,http://videolectures.net/icml2015_wu_bilinear_models,29
+2015-05-11,Na mednarodni konferenci tudi zabavne aplikacije računalniškega vida,http://videolectures.net/STAkrog_znanstvena_konferenca_fg2015,29
+2015-12-05,A Linear Dynamical System Model for Text,http://videolectures.net/icml2015_belanger_dynamical_system,29
+2015-12-20,Evropa in večjezičnost ,http://videolectures.net/elrc2015_jaksa_evropa_vecjezicnost,29
+2015-07-02,Active Nonrigid ICP Algorithm,http://videolectures.net/fgconference2015_cheng_icp_algorithm,29
+2015-05-29,"Robot, ki sliši in govori",http://videolectures.net/single_podpecan_robot,29
+2015-12-05,Distributed Box-Constrained Quadratic Optimization for Dual Linear SVM,http://videolectures.net/icml2015_lee_quadratic_optimization,28
+2015-10-21,A multi-scale methodology for explaining data streams,http://videolectures.net/sikdd2015_stopar_multiscale_methodology,28
+2015-12-05,Differentially Private Bayesian Optimization ,http://videolectures.net/icml2015_kusner_bayesian_optimization,28
+2015-12-05,Strongly Adaptive Online Learning,http://videolectures.net/icml2015_gonen_online_learning,28
+2016-10-06,Language processing pipelines for knowledge technologies,http://videolectures.net/eswc2016_tadic_language_processing,28
+2015-09-27,Random Coordinate Descent Methods for Minimizing Decomposable Submodular Functions,http://videolectures.net/icml2015_ene_decomposable_submodular_functions,28
+2015-07-15,Entity Recommendations Using Hierarchical Knowledge Bases,http://videolectures.net/eswc2015_sheth_knowledge_bases,28
+2016-10-24,Look-Ahead Before You Leap: End-to-End Active Recognition by Forecasting the Effect of Motion,http://videolectures.net/eccv2016_jayaraman_active_recognition,28
+2015-12-05,MADE: Masked Autoencoder for Distribution Estimation,http://videolectures.net/icml2015_germain_distribution_estimation,28
+2015-12-05,Efficient Learning in Large-Scale Combinatorial Semi-Bandits,http://videolectures.net/icml2015_kveton_efficient_learning,28
+2015-07-02,My 10 Year Research Vision: Face Analysis Systems,http://videolectures.net/fgconference2015_pietikainen_face_analysis,28
+2015-09-27,Landmarking Manifolds with Gaussian Processes,http://videolectures.net/icml2015_liang_landmarking_manifolds,28
+2015-12-05,Removing systematic errors for exoplanet search via latent causes,http://videolectures.net/icml2015_schoelkopf_systematic_errors,28
+2015-10-21,Relating biological and clinical features of Alzheimers patients with predictive clustering trees,http://videolectures.net/sikdd2015_breskvar_alzheimer_patients,28
+2015-09-27,Robust partially observable Markov decision process,http://videolectures.net/icml2015_osogami_markov_decision_process,27
+2015-12-05,Counterfactual Risk Minimization: Learning from Logged Bandit Feedback,http://videolectures.net/icml2015_swaminathan_bandit_feedback,27
+2015-09-27,A Probabilistic Model for Dirty Multi-task Feature Selection,http://videolectures.net/icml2015_hernandez_lobato_probabilistic_model,27
+2015-09-27,Learning Fast-Mixing Models for Structured Prediction,http://videolectures.net/icml2015_steinhardt_fast_mixing_models,27
+2016-10-24,Unified Depth Prediction and Intrinsic Image Decomposition from a Single Image via Joint Convolutional Neural Fields,http://videolectures.net/eccv2016_kim_depth_prediction,27
+2015-07-15,Uduvudu: A Graph-Aware and Adaptive UI Framework for Linked Data ,http://videolectures.net/eswc2015_luggen_uduvudu,27
+2016-10-12,Foundations for Scaling ML in Apache Spark,http://videolectures.net/kdd2016_bradley_apache_spark,27
+2016-07-28,Fast Approximate A-box Consistency Checking using Machine Learning,http://videolectures.net/eswc2016_paulheim_efficient_approximation,27
+2016-09-05,It’s About Time,http://videolectures.net/kdd2016_smallwood_about_time,27
+2015-07-15,What Crowdsourcing Tells Us about Cognition: the Case of Anaphora,http://videolectures.net/eswc2015_poesio_case_of_anaphora,27
+2015-11-10,Serving DBPedia with DOLCE - More than Just Adding a Cherry on Top,http://videolectures.net/iswc2015_paulheim_serving_dbpedia,27
+2016-09-25,Come-and-Go Patterns of Group Evolution: A Dynamic Model,http://videolectures.net/kdd2016_zhang_group_evolution,27
+2016-03-07,Inference in Ising models,http://videolectures.net/netadis2015_bhattacharya_ising_models,27
+2016-10-12,Making fashion recommendations with human-in-the-loop machine learning,http://videolectures.net/kdd2016_klingenberg_machine_learning,27
+2015-07-02,DECAF: MEG-based Multimodal Database for Decoding Affective Physiological Responses,http://videolectures.net/fgconference2015_sebe_physiological_responses,27
+2015-09-27,Multi-view Sparse Co-clustering via Proximal Alternating Linearized Minimization,http://videolectures.net/icml2015_bi_multi_view_sparse_co_clustering,27
+2015-09-27,Attribute Efficient Linear Regression with Distribution-Dependent Sampling,http://videolectures.net/icml2015_kukliansky_linear_regression,26
+2016-07-28,Opening Ceremony,http://videolectures.net/eswc2016_sack_opening_ceremony,26
+2016-09-25,Dynamic Clustering of Streaming Short Documents,http://videolectures.net/kdd2016_zhang_dynamic_clustering,26
+2015-10-22,"Fundamentals of Linked Data: main standards and technology components, motivating application scenario",http://videolectures.net/eswc2015_norton_linked_data,26
+2015-02-17,The Firm and the Financial Markets,http://videolectures.net/mlpmsummerschool2014_tapia_financial_markets,26
+2016-10-25,Heterogenous Graph Mining for Measuring the Impact of Research Institutions,http://videolectures.net/kdd2016_qiu_research_institutions,26
+2016-07-28,Semanting Technologies in Business: are we there yet?,http://videolectures.net/eswc2016_pratsini_semanting_technologies,26
+2015-09-27,Entropic Graph-based Posterior Regularization,http://videolectures.net/icml2015_libbrecht_posterior_regularization,26
+2015-07-02,The Social Signal Value of Emotion Expressions: The Impact of Context and Culture,http://videolectures.net/fgconference2015_hess_context_culture,26
+2016-11-10,Semantic Technologies for Data Analysis in Health Care,http://videolectures.net/iswc2016_piro_semantic_technologies,26
+2015-12-05,Mind the duality gap: safer rules for the Lasso,http://videolectures.net/icml2015_gramfort_duality_gap,26
+2016-10-24,The Curious Robot: Learning Visual Representations via Physical Interactions,http://videolectures.net/eccv2016_pinto_curious_robot,26
+2015-09-27,On the Optimality of Multi-Label Classification under Subset Zero-One Loss for Distributions Satisfying the Composition Property,http://videolectures.net/icml2015_gasse_multi_label_classification,26
+2015-12-05,HawkesTopic: A Joint Model for Network Inference and Topic Modeling from Text-Based Cascades,http://videolectures.net/icml2015_he_topic_modeling,26
+2015-09-27,A Deeper Look at Planning as Learning from Replay,http://videolectures.net/icml2015_van_seijen_learning_from_replay,26
+2015-09-27,Active Nearest Neighbors in Changing Environments,http://videolectures.net/icml2015_berlind_active_nearest_neighbors,25
+2015-07-28,Direct Predictive Collaborative Control of a Prosthetic Arm,http://videolectures.net/rldm2015_pilarski_prosthetic_arm,25
+2016-03-07,"Implementing efficient ""shotgun"" inference of neural connectivity from highly sub-sampled activity data",http://videolectures.net/netadis2015_soudry_activity_data,25
+2016-10-25,Deep Learning for Connectomicss,http://videolectures.net/kdd2016_ji_deep_learning,25
+2015-09-27,Information Geometry and Minimum Description Length Networks,http://videolectures.net/icml2015_sun_information_geometry,25
+2015-07-02,Human Pose Search using Deep Poselets,http://videolectures.net/fgconference2015_jammalamadaka_pose_search,25
+2015-12-20,Kakšne vrste podatkov potrebujemo,http://videolectures.net/elrc2015_vintar_vrste_podatkov,25
+2015-07-15,Distributed and Scalable OWL EL Reasoning,http://videolectures.net/eswc2015_mutharaju_scalable_reasoning,25
+2015-09-27,Community Detection Using Time-Dependent Personalized PageRank,http://videolectures.net/icml2015_avron_community_detection,25
+2015-12-01,Stephen Purcell interview,http://videolectures.net/esr2015_purcell_interview,25
+2016-11-10,Efficient Algorithms for Association Finding and Frequent Association Pattern Mining,http://videolectures.net/iswc2016_cheng_efficient_algorithms,25
+2015-12-05,Tracking Approximate Solutions of Parameterized Optimization Problems over Multi-Dimensional (Hyper-)Parameter Domains,http://videolectures.net/icml2015_laue_approximate_solutions,25
+2016-10-25,Feature Engineering and Ensemble Modeling for Paper Acceptance Rank Prediction,http://videolectures.net/kdd2016_qian_rank_prediction,25
+2016-10-06,Understanding and communicating with data,http://videolectures.net/eswc2016_phethean_understanding_communicating,25
+2015-10-21,Event detection in twitter with an event knowledge base,http://videolectures.net/sikdd2015_rei_event_detection,25
+2015-12-05,Norm Regularization: Error Bounds and Convergence Rate Analysis of First-Order Methods,http://videolectures.net/icml2015_zhou_error_bounds,25
+2015-12-01,Opening Ceremony,http://videolectures.net/iswc2015_staab_opening,24
+2016-10-06,Data and Algorithmic Bias in the Web,http://videolectures.net/eswc2016_baeza_yates_algorithmic_bias,24
+2015-09-27,Learning Local Invariant Mahalanobis Distances,http://videolectures.net/icml2015_fetaya_mahalanobis_distances,24
+2015-07-15,On Discovering Relationships in Multi-Label Learning via Linked Open Data ,http://videolectures.net/eswc2015_papagiannopoulou_open_data,24
+2016-09-25,FINAL: Fast Attributed Network Alignment,http://videolectures.net/kdd2016_zhang_network_alignment,24
+2015-07-15,Query Execution Optimization for Clients of Triple Pattern Fragments,http://videolectures.net/eswc2015_van_herwegen_pattern_fragments,24
+2016-10-24,Fast Guided Global Interpolation for Depth and Motion,http://videolectures.net/eccv2016_lu_depth_motion,24
+2015-12-01,RESILENS project with Ehiaze Ehimen,http://videolectures.net/esr2015_ehimen_resilens_project,24
+2016-10-12,Communities and Anomalies in Attributed Networks,http://videolectures.net/kdd2016_akoglu_attributed_networks,24
+2016-09-27,Positive Unlabeled Learning in Streaming Networks,http://videolectures.net/kdd2016_chang_unlabeled_learning,24
+2015-12-05,On Symmetric and Asymmetric LSHs for Inner Product Search,http://videolectures.net/icml2015_srebro_product_search,24
+2016-10-24,Heat Diffusion Long-Short Term Memory Learning for 3D Shape Analysis,http://videolectures.net/eccv2016_zhu_shape_analysis,24
+2016-09-25,Taxi Driving Behavior Analysis in Latent Vehicle-to-Vehicle Networks: A Social Influence Perspective,http://videolectures.net/kdd2016_xu_behavior_analysis,24
+2016-10-24,Dual Structured Light 3D using a 1D Sensor,http://videolectures.net/eccv2016_gupta_1d_sensor,24
+2016-09-25,Graph Wavelets via Sparse Cuts,http://videolectures.net/kdd2016_da_silva_sparse_cuts,24
+2015-10-22,Far far away: driving HMI requirements towards the comfortable range in Electric Vehicles,http://videolectures.net/emender2015_calefato_electric_vehicles,24
+2016-09-25,Modeling Precursors for Event Forecasting via Nested Multi-Instance Learning,http://videolectures.net/kdd2016_ning_modeling_precursors,24
+2016-10-06,"Data Science for Social Impact: Case Studies, Challenges, and Opportunities",http://videolectures.net/eswc2016_ghani_data_science,24
+2015-12-05,Bayesian and Empirical Bayesian Forests,http://videolectures.net/icml2015_taddy_bayesian_forests,24
+2016-10-06,"Knowledge Representation on the Web using Prototypes: Syntax, Semantics and Pragmatics",http://videolectures.net/eswc2016_decker_knowledge_representation,24
+2016-07-28,TermPicker: Enabling the Reuse of Vocabulary Terms by Exploiting Data from the Linked Open Data Cloud,http://videolectures.net/eswc2016_schaible_open_data,24
+2015-09-27,Sparse Variational Inference for Generalized GP Models,http://videolectures.net/icml2015_sheth_generalized_gp_models,24
+2016-10-25,Toward Semantic Understanding of Mobility Data,http://videolectures.net/kdd2016_li_mobility_data,23
+2015-09-27,K-hyperplane Hinge-Minimax Classifier,http://videolectures.net/icml2015_osadchy_hinge_minimax_classifier,23
+2016-09-22,Contextual Intent Tracking for Personal Assistants,http://videolectures.net/kdd2016_sun_personal_assistants,23
+2015-12-01, FORCE project with Michael Remes,http://videolectures.net/esr2015_remes_force_project,23
+2015-12-05,The Fundamental Incompatibility of Scalable Hamiltonian Monte Carlo and Naive Data Subsampling,http://videolectures.net/icml2015_betancourt_data_subsampling,23
+2015-07-02,Multi-Instance Hidden Markov Model For Facial Expression Recognition,http://videolectures.net/fgconference2015_ji_facial_expression,23
+2016-09-27,Fast Memory-efficient Anomaly Detection in Streaming Heterogeneous Graphs,http://videolectures.net/kdd2016_manzoor_anomaly_detection,23
+2016-10-24,Sparse Subspace Clustering,http://videolectures.net/eccv2016_yang_subspace_clustering,23
+2016-10-12,Exploiting the Computation Graph for Large Scale Distributed Machine Learning,http://videolectures.net/kdd2016_vishwanathan_machine_learning,23
+2015-09-27,Inference in a Partially Observed Queuing Model with Applications in Ecology,http://videolectures.net/icml2015_winner_queuing_model,23
+2015-11-10,LOD Lab: Experiments at LOD Scale,http://videolectures.net/iswc2015_rietveld_lod_scale,23
+2015-07-02,Pain Assessment in Infants: Towards Spotting the Pain Expression Based on the Facial Strain,http://videolectures.net/fgconference2015_alzamzmi_facial_strain,23
+2015-07-15,Knowledge Enabled Approach to Predict the Location of Twitter Users,http://videolectures.net/eswc2015_sheth_twitter_users,23
+2015-09-27,Stay on path: PCA along graph paths,http://videolectures.net/icml2015_asteris_graph_paths,23
+2015-12-21,Razvoj korpusa slovenskih spletnih uporabniških vsebin Janes,http://videolectures.net/slovenscina2015_erjavec_razvoj_korpusa,23
+2015-07-15,Cooperative Techniques for SPARQL Query Relaxation in RDF Databases,http://videolectures.net/eswc2015_fokou_rdf_databases,22
+2015-12-05,A trust-region method for stochastic variational inference with applications to streaming data,http://videolectures.net/icml2015_theis_streaming_data,22
+2015-09-27,A Unified Framework for Outlier-Robust PCA-like Algorithms,http://videolectures.net/icml2015_yang_pca_like_algorithms,22
+2016-07-28,Sentiment Analysis in Social Networks through Topic modeling,http://videolectures.net/lrec2016_naskar_social_networks,22
+2015-09-27,Learning Scale-Free Networks by Dynamic Node Specific Degree Prior,http://videolectures.net/icml2015_xu_scale_free_networks,22
+2015-07-02,Lessons from Collecting a Million Biometric Samples,http://videolectures.net/fgconference2015_phillips_biometric_samples,22
+2015-07-02,FG 2015 Opening,http://videolectures.net/fgconference2015_opening,22
+2015-07-15,Learning a Cross-Lingual Semantic Representation of Relations Expressed in Text,http://videolectures.net/eswc2015_rettinger_semantic_representation,22
+2015-07-15,A Compact In-Memory Dictionary for RDF data,http://videolectures.net/eswc2015_bazoobandi_rdf_data,22
+2015-12-05,Cascading Bandits: Learning to Rank in the Cascade Model ,http://videolectures.net/icml2015_kveton_cascading_bandits,22
+2015-12-05,Inferring Graphs from Cascades: A Sparse Recovery Framework,http://videolectures.net/icml2015_horel_recovery_framework,22
+2015-07-15,Using Semantic Web Technologies for Enterprise Architecture Analysis,http://videolectures.net/eswc2015_osenberg_architecture_analysis,22
+2016-07-28,Embedding Mapping Approaches for Tensor Factorization and Knowledge Graph Modelling,http://videolectures.net/eswc2016_yang_graph_modelling,22
+2016-10-12,"Dynamic Processes over Information Networks Representation, Modeling, Learning and Inference",http://videolectures.net/kdd2016_song_dynamic_processes,22
+2016-09-22,An Engagement-Based Customer Lifetime Value System for E-commerce,http://videolectures.net/kdd2016_vanderveld_value_system,22
+2016-10-24,Segmentation from Natural Language Expressions,http://videolectures.net/eccv2016_hu_natural_language,22
+2015-07-02,Panel session: The Promise and Perils of Found Data,http://videolectures.net/fgconference2015_cohn_panel,22
+2015-12-05,How Can Deep Rectifier Networks Achieve Linear Separability and Preserve Distances?,http://videolectures.net/icml2015_an_linear_separability,22
+2016-07-28,CyCLaDEs: A Decentralized Cache for Triple Pattern Fragments,http://videolectures.net/eswc2016_folz_pattern_fragments,22
+2016-02-10,CV-HAZOP: Introducing Test Data Validation for Computer Vision,http://videolectures.net/iccv2015_zendel_computer_vision,22
+2015-09-27,A Theoretical Analysis of Metric Hypothesis Transfer Learning,http://videolectures.net/icml2015_perrot_transfer_learning,22
+2015-07-02,A Survey on Mouth Modeling and Analysis for Sign Language Recognition,http://videolectures.net/fgconference2015_antonakos_sign_language,22
+2015-12-01,"Security, Privacy and Big Data Standards",http://videolectures.net/esr2015_walshe_big_data,22
+2015-09-27,Convex Calibrated Surrogates for Hierarchical Classification,http://videolectures.net/icml2015_ramaswamy_hierarchical_classification,22
+2016-09-25,Asymmetric Transitivity Preserving Graph Embedding,http://videolectures.net/kdd2016_zhang_asymmetric_transitivity,22
+2015-07-02,Privacy in Mini-drone Based Video Surveillance,http://videolectures.net/fgconference2015_ebrahimi_video_surveillance,21
+2016-11-10,Domain Adaptation for Ontology Localization,http://videolectures.net/iswc2016_mccrae_domain_adaptation,21
+2015-11-10,LSQ: Linked SPARQL Queries Dataset ,http://videolectures.net/iswc2015_saleem_queries_dataset,21
+2015-07-02,My 10 Year Research Vision: Automatic Sign Language Recognition,http://videolectures.net/fgconference2015_akarun_sign_language,21
+2015-12-05,A General Analysis of the Convergence of ADMM,http://videolectures.net/icml2015_nishihara_general_analysis,21
+2015-07-15,Heuristics for Fixing Common Errors in Deployed schema.org Microdata,http://videolectures.net/eswc2015_meusel_schema_org,21
+2016-10-12,From Practice to Theory in Learning from Massive Data,http://videolectures.net/kdd2016_elkan_massive_data,21
+2016-07-28,Slovene and the South Slavic Language Family - the Obligation of Expressing Duality and Other Stories from the South,http://videolectures.net/lrec2016_krek_slavic,21
+2016-03-07,Exact and approximate solutions for spatial stochastic models of chemical systems,http://videolectures.net/netadis2015_grima_chemical_systems,21
+2015-07-28,Choice reflexes in the rodent habit system,http://videolectures.net/rldm2015_gruber_choice_reflexes,21
+2015-07-15,Quality Assessment of Linked Datasets using Probabilistic Approximations,http://videolectures.net/eswc2015_debattista_linked_datasets,21
+2016-09-22,Repeat Buyer Prediction for E-Commerce,http://videolectures.net/kdd2016_chen_buyer_prediction,21
+2015-12-05,Distributed Inference for Dirichlet Process Mixture Models ,http://videolectures.net/icml2015_chen_distributed_inference,21
+2015-11-10,Recursion in SPARQL,http://videolectures.net/iswc2015_reutter_recursion_sparql,21
+2016-10-24,General Automatic Human Shape and Motion Capture Using Volumetric Contour Cues,http://videolectures.net/eccv2016_rhodin_human_shape,21
+2016-07-28,The Lazy Traveling Salesman - Memory Management for Large - Scale Link Discovery,http://videolectures.net/eswc2016_ngonga_ngomo_link_discovery,21
+2016-09-27,GMove: Group-Level Mobility Modeling using Geo-Tagged Social Media,http://videolectures.net/kdd2016_zhang_social_media,21
+2015-12-05,A Bayesian nonparametric procedure for comparing algorithms,http://videolectures.net/icml2015_mangili_comparing_algorithms,21
+2015-08-10,Comprehensibility and usability of classification trees,http://videolectures.net/solomon_piltaver_classification_trees,21
+2015-11-10,Type-Constrained Representation Learning in Knowledge Graphs,http://videolectures.net/iswc2015_krompass_representation_learning,20
+2016-11-10,Operator-aware approach for boosting performance in RDF stream processing,http://videolectures.net/iswc2016_le_phuoc_stream_processing,20
+2015-12-05,BilBOWA: Fast Bilingual Distributed Representations without Word Alignments,http://videolectures.net/icml2015_gouws_word_alignments,20
+2015-10-22,Querying Linked Data: SPARQL 101,http://videolectures.net/eswc2015_fundulaki_sparql_101,20
+2015-12-05,A Fast Variational Approach for Learning Markov Random Field Language Models,http://videolectures.net/icml2015_jernite_language_models,20
+2015-09-27,Non-Gaussian Discriminative Factor Models via the Max-Margin Rank-Likelihood,http://videolectures.net/icml2015_lian_factor_models,20
+2015-09-27,Safe Screening for Multi-Task Feature Learning with Multiple Data Matrices,http://videolectures.net/icml2015_yang_feature_learning,20
+2016-07-28,AskNow: A Framework for Natural Language Query Formalization in SPAR QL,http://videolectures.net/eswc2016_dubey_natural_language,20
+2015-07-02,"Group-level Arousal and Valence Recognition in Static Images: Face, Body and Context",http://videolectures.net/fgconference2015_mou_static_images,20
+2015-12-05,Hashing for Distributed Data,http://videolectures.net/icml2015_leng_distributed_data,20
+2015-12-05,The Hedge Algorithm on a Continuum,http://videolectures.net/icml2015_krichene_hedge_algorithm,20
+2015-12-05,Correlation Clustering in Data Streams,http://videolectures.net/icml2015_guha_data_streams,20
+2015-10-22,Crowd truth,http://videolectures.net/eswc2015_welty_crowd_truth,20
+2015-07-02,Automated Prediction and Analysis of Job Interview Performance: The Role of What You Say and How You Say It,http://videolectures.net/fgconference2015_hoque_automated_prediction,20
+2016-09-22,Aircraft Trajectory Prediction made easy with Predictive Analytics,http://videolectures.net/kdd2016_ayhan_predictive_analytics,20
+2016-07-28,"From Queriability to Informativity, Assessing “Quality in Use” of DBpedia and YAGO",http://videolectures.net/eswc2016_ruan_queriability_to_informativity,20
+2016-10-12,Joint multi-modal representations for e-commerce catalog search driven by visual attributes,http://videolectures.net/kdd2016_saha_visual_attributes,20
+2016-07-28,Implicit Entity Linking in Tweets,http://videolectures.net/eswc2016_perera_entity_linking,19
+2015-11-10,RDFox: A Highly-Scalable RDF Store,http://videolectures.net/iswc2015_nenov_rdf_store,19
+2016-10-24,An Empirical Study and Analysis of Generalized Zero-Shot Learning for Object Recognition in the Wild,http://videolectures.net/eccv2016_chao_object_recognition,19
+2015-07-15,Supporting Open Collaboration in Science through Explicit and Linked Semantic Description of Processes,http://videolectures.net/eswc2015_michel_semantic_description,19
+2016-09-25,Robust Extreme Multi-label Learning,http://videolectures.net/kdd2016_xu_multilabel_learning,19
+2015-09-27,Safe Policy Search for Lifelong Reinforcement Learning with Sublinear Regret,http://videolectures.net/icml2015_eaton_lifelong_reinforcement_learning,19
+2015-07-15,Ontology Consistency and Instance Checking for Real World Linked Data ,http://videolectures.net/eswc2015_mendel_gleason_linked_data,19
+2015-12-05,Exponential Integration for Hamiltonian Monte Carlo,http://videolectures.net/icml2015_chao_exponential_integration,19
+2016-10-12,The Great Time Series Classification Bake Off: An Experimental Evaluation of Recently Proposed Algorithms,http://videolectures.net/kdd2016_lines_proposed_algorithms,19
+2015-09-27,A low variance consistent test of relative dependency,http://videolectures.net/icml2015_bounliphone_relative_dependency,19
+2015-07-02,Detecting Bids for Eye Contact Using A Wearable Camera,http://videolectures.net/fgconference2015_ye_wearable_camera,19
+2015-09-27,A Divide and Conquer Framework for Distributed Graph ClusteringLearning with Multiple Data Matrices,http://videolectures.net/icml2015_yang_distributed_graph_clustering,19
+2016-10-12,Decoding Fashion Contexts Using Word Embeddings,http://videolectures.net/kdd2016_warrier_fashion_contexts,19
+2016-11-10,Planning Ahead: Stream-Driven Linked-Data Access under Update-Budget Constraints,http://videolectures.net/iswc2016_gao_planning_ahead,19
+2015-09-27,Bipartite Edge Prediction via Transductive Learning over Product Graphs,http://videolectures.net/icml2015_liu_bipartite_edge_prediction,19
+2015-09-27,The Power of Randomization: Distributed Submodular Maximization on Massive Datasets,http://videolectures.net/icml2015_ward_randomization,19
+2016-10-24,Detecting Engagement in Egocentric Video,http://videolectures.net/eccv2016_su_egocentric_video,19
+2015-11-10,"Collecting, Integrating, Enriching and Republishing Open City Data as Linked Data",http://videolectures.net/iswc2015_bischof_linked_data,19
+2016-11-10,A Fine-Grained Evaluation of SPARQL Endpoint Federation Systems,http://videolectures.net/iswc2016_saleem_federation_systems,19
+2016-10-12,Recommendation and Opinion Mining with Visual Signals,http://videolectures.net/kdd2016_mcauley_visual_signals,19
+2016-10-24,Precomputed Real-Time Texture Synthesis with Markovian Generative Adversarial Networks,http://videolectures.net/eccv2016_li_adversatial_networks,19
+2016-09-27,Robust Large-Scale Machine Learning in the Cloud,http://videolectures.net/kdd2016_rendle_machine_learning,19
+2015-10-20,UNESCO in the Field of Education Creativity and Multi-Stakeholder Co-Creation ,http://videolectures.net/internetofeducation2015_hrastelj_unesco,19
+2016-10-12,FPGASVM: A Framework for Accelerating Kernelized Support Vector Machine Training using FPGAs,http://videolectures.net/kdd2016_bin_rabieah_machine_training,19
+2016-10-24,Binary Hashing with Semidefinite Relaxation and Augmented Lagrangian,http://videolectures.net/eccv2016_do_binary_hashing,19
+2016-09-27,Regime Shifts in Streams: Real-time Forecasting of Co-evolving Time Sequences,http://videolectures.net/kdd2016_matsubara_time_sequences,18
+2015-10-22,Big Data Techniques For Supporting Prediction of Renewable Energy Production,http://videolectures.net/emender2015_masciari_big_data,18
+2016-07-28, An Ontology-driven Approach for Semantic Annotation of Documents with Specific Concepts,http://videolectures.net/eswc2016_alec_ontology_approach,18
+2016-10-24,ObjectNet3D: A Large Scale Database for 3D Object Recognition,http://videolectures.net/eccv2016_choy_object_recognition,18
+2015-07-15,Requirements for and Evaluation of User Support for Large-Scale Ontology Alignment,http://videolectures.net/eswc2015_ivanova_ontology_alignment,18
+2015-07-02,Spontaneous Facial Expression Analysis Based on Temperature Changes and Head Motions,http://videolectures.net/fgconference2015_liu_head_motions,18
+2016-11-15,Visual and Statistical Analysis of VideoLectures.NET,http://videolectures.net/sikdd2016_novak_videoLectures,18
+2015-12-05,Adaptive Belief Propagation,http://videolectures.net/icml2015_papachristoudis_belief_propagation,18
+2015-09-27,Geometric Conditions for Subspace-Sparse Recovery,http://videolectures.net/icml2015_vidal_subspace_sparse_recovery,18
+2016-09-25,FRAUDAR: Bounding Graph Fraud in the Face of Camouflage,http://videolectures.net/kdd2016_hooi_bounding_graph,18
+2016-10-25,Bibliometric Ranking of Research Institutions,http://videolectures.net/kdd2016_manivannan_palaniappan_ranking,18
+2015-07-15,What the Adoption of schema.org Tells About Linked Open Data,http://videolectures.net/eswc2015_paulheim_schema_org,18
+2016-10-12,Large Scale CVR Prediction through Dynamic Transfer Learning of Global and Local Features,http://videolectures.net/kdd2016_yang_large_scale,18
+2015-07-02,Leveraging Geometry and Appearance Cues for Recognizing Family Photos,http://videolectures.net/fgconference2015_wang_family_photos,18
+2016-10-24,Learning High-Order Filters for Efficient Blind Deconvolution of Document Photographs,http://videolectures.net/eccv2016_xiao_document_photographs,18
+2016-11-07,Social Influence and Sentiment Analysis,http://videolectures.net/kdd2016_tang_sentiment_analysis,18
+2016-10-06,High-performance computing,http://videolectures.net/eswc2016_pedrinaci_computing,18
+2015-07-15,Using @Twitter Conventions to Improve #LOD-Based Named Entity Disambiguation,http://videolectures.net/eswc2015_gorrell_named_entities,18
+2016-07-28,Tiresias: Predicting Drug-Drug Interactions Through Large-Scale Similarity-Based Link Prediction,http://videolectures.net/eswc2016_fokoue_link_prediction,18
+2016-11-10,TripleWave: Spreading RDF Streams on the Web,http://videolectures.net/iswc2016_mauri_rdf_streams,18
+2015-07-02,Comparison of human and computer performance across face recognition experiments,http://videolectures.net/fgconference2015_phillips_recognition_experiments,18
+2016-10-24,When is Rotations Averaging Hard?,http://videolectures.net/eccv2016_wilson_rotations_averaging,18
+2016-09-22,Question Independent Grading using Machine Learning: The Case of Computer Program Grading,http://videolectures.net/kdd2016_singh_program_grading,18
+2015-12-05,Phrase-based Image Captioning,http://videolectures.net/icml2015_lebret_image_captioning,18
+2015-11-10,Opportunistic Linked Data Querying through Approximate Membership Metadata,http://videolectures.net/iswc2015_vander_sande_data_querying,18
+2016-10-12,Gameplay First: Data Science at Blizzard Entertainment,http://videolectures.net/kdd2016_chemudugunta_data_science,18
+2016-09-22,Ranking Relevance in Yahoo Search,http://videolectures.net/kdd2016_yin_ranking_relevance,18
+2016-07-28,Qanary - An Extensible Vocabulary for Open Question Answering Systems,http://videolectures.net/eswc2016_both_qanary,18
+2015-07-02,Multi-view Discriminant Analysis with Tensor Representation and Its Application to Cross-view Gait Recognition,http://videolectures.net/fgconference2015_makihara_gait_recognition,18
+2016-10-24,An Evaluation of Computational Imaging Techniques for Heterogeneous Inverse Scattering,http://videolectures.net/eccv2016_gkioulekas_inverse_scattering,18
+2016-11-10,Towards Analytics Aware Ontology Based Access to Static and Streaming Data,http://videolectures.net/iswc2016_kharlamov_analytics_aware,18
+2016-10-24,Improving Multi-label Learning with Missing Labels by Structured Semantic Correlations,http://videolectures.net/eccv2016_yang_semantic_correlations,18
+2016-09-25,CatchTartan: Representing and Summarizing Dynamic Multicontextual Behaviors,http://videolectures.net/kdd2016_jiang_multicontextual_behaviors,17
+2015-07-15,Closing and Award Ceremony,http://videolectures.net/eswc2015_gandon_closing_award,17
+2016-09-05,The Dirty Little Secret of Enterprise Data,http://videolectures.net/kdd2016_palmer_enterprise_data,17
+2015-12-05,Online Learning of Eigenvectors,http://videolectures.net/icml2015_garber_online_learning,17
+2015-07-15,Computing Geo-Spatial Motives from Linked Data for Search-driven Applications,http://videolectures.net/eswc2015_both_linked_data,17
+2016-07-28,"VOLT: A Provenance-Producing, Transparent SPARQL Proxy for the On-Demand Computation of Linked Data & its Application to Spatiotemporally Dependent Data",http://videolectures.net/eswc2016_regalia_volt,17
+2016-10-24,"ShapeFit and ShapeKick for Robust, Scalable Structure from Motion",http://videolectures.net/eccv2016_hand_scalable_structure,17
+2015-07-28,"Online, semi-parametric estimation of optimal treatment allocations for the control of emerging epidemics",http://videolectures.net/rldm2015_laber_optimal_treatment,17
+2016-09-25,Robust Influence Maximization,http://videolectures.net/kdd2016_he_influence_maximization,17
+2015-12-01,Tom Flynn interview,http://videolectures.net/esr2015_flynn_interview,17
+2015-10-02,Zakonodajni monitor,http://videolectures.net/okroglamizapravo2015_kovacic_zakonodajni_monitor,17
+2016-03-07,inference of neural circuit connectivity form high-dimensional activity recording data: A survey,http://videolectures.net/netadis2015_doya_neural_circuit_connectivity,17
+2015-12-05,Bimodal Modelling of Source Code and Natural Language,http://videolectures.net/icml2015_allamanis_natural_language,17
+2015-07-15,Opening Ceremony,http://videolectures.net/eswc2015_gandon_opening_ceremony,17
+2016-03-07,Efficient signal processing in random networks that generate variability: A comparison of internally generated and externally induced variability,http://videolectures.net/netadis2015_dasgupta_random_networks,17
+2016-09-25,Targeted Topic Modeling for Focused Analysis,http://videolectures.net/kdd2016_wang_topic_modeling,17
+2016-07-28,Ontology-based data access for Maritime Security,http://videolectures.net/eswc2016_bereta_maritime_security,17
+2015-07-28,Learning Dynamic Locomotion Skills for Terrains with Obstacles,http://videolectures.net/rldm2015_van_de_panne_obstacles,17
+2016-11-10,Extending SPARQL for data analytic tasks,http://videolectures.net/iswc2016_dolby_extending_sparql,17
+2016-02-10,Closing Reception,http://videolectures.net/iccv2015_closing_reception,17
+2016-10-25,Winners Panel,http://videolectures.net/kdd2016_panel_winners_panel,16
+2015-12-05,Large-scale Distributed Dependent Nonparametric Trees,http://videolectures.net/icml2015_hu_nonparametric_trees,16
+2015-10-20,OpeningupSlovenia and UNESCO Chair activities – Artificial Intelligence and ICT for Open Education,http://videolectures.net/internetofeducation2015_jermol_opening_up,16
+2015-12-20,Automated Translation: How Does It Work?,http://videolectures.net/elrc2015_piperidis_krek_automated_translation,16
+2016-07-28,Enriching Product Ads with Metadata from HTML Annotations,http://videolectures.net/eswc2016_ristoski_enriching_product,16
+2016-09-05,How Machine Learning has Finally Solved Wanamaker’s Dilemma,http://videolectures.net/kdd2016_downs_machine_learning,16
+2016-11-10,Zhishi.lemon：On Publishing Zhishi.me as Linguistic Linked Open Data,http://videolectures.net/iswc2016_fang_open_data,16
+2016-07-28,DoSeR - A Knowledge-Base-Agnostic Framework for Entity Disambiguation Using Semantic Embeddings,http://videolectures.net/eswc2016_zwicklbauer_semantic_embeddings,16
+2016-09-25,Robust Influence Maximization,http://videolectures.net/kdd2016_chen_influence_maximization,16
+2016-11-07,Custom Large-Scale Application Management for Verizon Use Cases,http://videolectures.net/kdd2016_das_application_management,16
+2016-07-28,"Linking Data, Services, and Human Know-How",http://videolectures.net/eswc2016_pareti_linking_data,16
+2015-07-02,Controllable Face Privacy,http://videolectures.net/fgconference2015_sim_face_privacy,16
+2015-11-10,Strategies for Efficiently Keeping Local LOD Data Caches Up-To-Date ,http://videolectures.net/iswc2015_dividino_lod_data,16
+2016-09-27,Communication Efficient Distributed Kernel Principal Component Analysis,http://videolectures.net/kdd2016_liang_component_analysis,16
+2015-09-27,Convex Learning of Multiple Tasks and their Structure,http://videolectures.net/icml2015_ciliberto_convex_learning,16
+2016-10-25,A Unified Inference Framework for Enterprise Users: From Data Storage to Mail,http://videolectures.net/kdd2016_byun_data_storage,16
+2016-09-25,QUINT: On Query-Specific Optimal Networks,http://videolectures.net/kdd2016_li_optimal_networks,16
+2015-11-10,FEASIBLE: A Featured-Based SPARQL Benchmarks Generation Framework,http://videolectures.net/iswc2015_saleem_featured_based,16
+2015-12-05,Cheap Bandits,http://videolectures.net/icml2015_kumar_hanawal_cheap_bandits,16
+2015-07-15,Introduction talk,http://videolectures.net/eswc2015_vidal_introduction_talk,16
+2015-12-05,The Composition Theorem for Differential Privacy,http://videolectures.net/icml2015_oh_differential_privacy,16
+2015-10-22,Dealing with Multi-linguality for Better Knowledge,http://videolectures.net/eswc2015_hodson_multi_linguality,16
+2015-07-15,RSLT (RDF Stylesheet Language Transformations),http://videolectures.net/eswc2015_peroni_rslt,16
+2016-09-27,Unified Point-of-Interest Recommendation with Temporal Interval Assessment,http://videolectures.net/kdd2016_liu_interval_assessment,16
+2016-07-28,Efficient Graph-based Document Similarity,http://videolectures.net/eswc2016_paul_document_similarity,16
+2015-12-01,Closing and Awards,http://videolectures.net/iswc2015_staab_closing,16
+2016-10-24,Spot On: Action Localization from Pointly-Supervised Proposals,http://videolectures.net/eccv2016_mettes_action_localization,16
+2015-09-27,On Identifying Good Options under Combinatorially Structured Feedback in Finite Noisy Environments,http://videolectures.net/icml2015_wu_finite_noisy_environments,16
+2015-07-15,Processing Aggregate Queries in a Federation of SPARQL Endpoints ,http://videolectures.net/eswc2015_ibragimov_sparql_endpoints,16
+2016-10-24,Learning Representations for Automatic Colorization,http://videolectures.net/eccv2016_larsson_automatic_colorization,16
+2015-09-27,"Distributional Rank Aggregation, and an Axiomatic Analysis",http://videolectures.net/icml2015_pareek_rank_aggregation,16
+2016-09-27,Lexis: An Optimization Framework for Discovering the Hierarchical Structure of Sequential Data,http://videolectures.net/kdd2016_siyari_sequential_data,16
+2015-12-01,Experiences in Aquaculture,http://videolectures.net/esr2015_seferis_dolan_aquaculture,16
+2015-12-05,An Empirical Study of Stochastic Variational Inference Algorithms for the Beta Bernoulli Process,http://videolectures.net/icml2015_shah_empirical_study,15
+2015-07-02,Coupled Discriminative Feature Learning for Heterogeneous Face Recognition,http://videolectures.net/fgconference2015_deng_face_recognition,15
+2015-12-05,"Proteins, Particles, and Pseudo-Max-Marginals: A Submodular Approach",http://videolectures.net/icml2015_pacheco_submodular_approach,15
+2016-10-24,Shape Acquisition and Registration for 3D Endoscope Based on Grid Pattern Projection,http://videolectures.net/eccv2016_kawasaki_grid_pattern,15
+2015-12-05,Paired-Dual Learning for Fast Training of Latent Variable Hinge-Loss MRFs,http://videolectures.net/icml2015_bach_fast_training,15
+2015-07-15,From Symptoms to Diseases - Creating the Missing Link,http://videolectures.net/eswc2015_oberkampf_missing_link,15
+2015-07-02,Panel session: The Promise and Perils of Found Data,http://videolectures.net/fgconference2015_panel,15
+2015-09-27,Learning Parametric-Output HMMs with Two Aliased States,http://videolectures.net/icml2015_weiss_parametric_output_hmms,15
+2016-10-12,Joint Probabilistic Inference of Causal Structure,http://videolectures.net/kdd2016_sridhar_causal_structure,15
+2015-07-15,Troubleshooting and Optimizing Named Entity Resolution Systems in the Industry,http://videolectures.net/eswc2015_alexopoulos_resolution_systems,15
+2016-10-12,Sparse plus low-rank graphical models of time series for functional connectivity in MEG,http://videolectures.net/kdd2016_nadkarni_functional_connectivity,15
+2016-10-25,Byproducts of Urban Infrastructure Interfaces: Evidence from Parking Compliance ,http://videolectures.net/kdd2016_song_parking_compliance,15
+2015-10-20,Opening up Croatia – The Croatian perspective on Open Education,http://videolectures.net/internetofeducation2015_jugo_opening_up,15
+2015-07-15,Semi-supervised Instance Matching Using Boosted Classifiers,http://videolectures.net/eswc2015_kejriwal_boosted_classifiers,15
+2016-09-22,Deep Crossing: Web-Scale Modeling without Manually Crafted Combinatorial Features,http://videolectures.net/kdd2016_shan_combinatorial_features,15
+2015-12-05,A Modified Orthant-Wise Limited Memory Quasi-Newton Method with Convergence Analysis,http://videolectures.net/icml2015_bi_convergence_analysis,15
+2016-09-05,Big Data Needs Big Dreamers: Lessons from successful Big Data investors,http://videolectures.net/kdd2016_panel_big_data_investors,15
+2015-12-05,Atomic Spatial Processes,http://videolectures.net/icml2015_spencer_spatial_processes,15
+2016-10-12,Granger Causality Networks for Categorical Time Series,http://videolectures.net/kdd2016_tank_granger_causality,15
+2016-10-12,Panel on Machine Learning for Large Scale Transportation Systems,http://videolectures.net/kdd2016_panel_transportation_system,15
+2016-09-22,Firebird: Predicting Fire Risk and Prioritizing Fire Inspections in Atlanta,http://videolectures.net/kdd2016_madaio_haimson_zhang_chen_fire,15
+2016-11-10,"YAGO: A Multilingual Knowledge Base from Wikipedia, Wordnet, and Geonames",http://videolectures.net/iswc2016_rebele_multilingual_knowledge,15
+2016-11-10,Ontology-Based Design of Space Systems,http://videolectures.net/iswc2016_hennig_space_systems,15
+2016-10-25,Attribute Extraction from Product Titles in eCommerce,http://videolectures.net/kdd2016_more_product_titles,15
+2016-09-22,Evaluating Mobile App Release,http://videolectures.net/kdd2016_xu_app_release,15
+2015-10-20,"Language technologies for Education: EMMA - European Multiple MOOC Aggregator, transLectures - Transcription and Translation of Video Lectures, Active2Trans - Active Interaction for Speech Transcription and Translation",http://videolectures.net/internetofeducation2015_ciscar_language_techno,15
+2016-10-12,Deep learning for driving detection on mobile phones,http://videolectures.net/kdd2016_tran_mobile_phones,15
+2015-12-05,Faster Rates for the Frank-Wolfe Method over Strongly-Convex Sets,http://videolectures.net/icml2015_garber_faster_rates,15
+2015-11-10,Substring Filtering for Low-Cost Linked Data Interfaces,http://videolectures.net/iswc2015_van_herwegen_substring_filtering,15
+2016-09-22,Catch Me If You Can: Detecting Pickpocket Suspects from Large-Scale Transit Records,http://videolectures.net/kdd2016_liu_transit_records,14
+2015-12-05,Celeste: Variational inference for a generative model of astronomical images,http://videolectures.net/icml2015_regier_astronomical_images,14
+2015-07-02,Person-specific Behavioral Features for Automatic Stress Detection ,http://videolectures.net/fgconference2015_aigrain_behavioral_features,14
+2015-10-22,Truth is a lie: Semantics from a crowd perspective,http://videolectures.net/eswc2015_aroyo_crowd_perspective,14
+2016-09-22,A Semi-Supervised Approach for Gender Identification,http://videolectures.net/lrec2016_soler_company_gender_identification,14
+2015-09-27,Statistical and Algorithmic Perspectives on Randomized Sketching for Ordinary Least-Squares,http://videolectures.net/icml2015_gittens_ordinary_least_squares,14
+2015-09-27,Entropy evaluation based on confidence intervals of frequency estimates: Application to the learning of decision trees,http://videolectures.net/icml2015_serrurier_entropy_evaluation,14
+2015-12-05,Predictive Entropy Search for Bayesian Optimization with Unknown Constraints,http://videolectures.net/icml2015_hernandez_lobato_predictive_entropy,14
+2015-12-01,Secure Architectures of Future Emerging Cryptography,http://videolectures.net/esr2015_mcwilliams_secure_future,14
+2015-12-20,Pozdravni nagovor,http://videolectures.net/elrc2015_straus_pozdravni_nagovor,14
+2016-09-22,Predicting Disk Replacement towards Reliable Data Centers,http://videolectures.net/kdd2016_botezatu_disk_replacement,14
+2015-07-02,The FG 2015 Kinship Verification in the Wild Evaluation,http://videolectures.net/fgconference2015_liong_wild_evaluation,14
+2015-12-01,Theme 4 Panel Questions and Answers,http://videolectures.net/esr2015_beltran_jaunsaras_theme_panel,14
+2015-11-10,SPARQL with Property Paths,http://videolectures.net/iswc2015_reutter_property_paths,14
+2016-09-22,Anomaly Detection Using Program Control Flow Graph Mining from Execution Logs,http://videolectures.net/kdd2016_nandi_graph_mining,14
+2015-12-01,Cluster Projects I: SECTOR and DESTRIERO,http://videolectures.net/esr2015_mauthner_fiorentino_cluster_projects,14
+2015-07-15,Developing a Sustainable Platform for Entity Annotation Benchmarks ,http://videolectures.net/eswc2015_usbeck_annotation_benchmarks,14
+2015-07-02,On the Quantitative Analysis of Craniofacial Asymmetry in 3D,http://videolectures.net/fgconference2015_sukno_craniofacial_asymmetry,14
+2016-09-27,When Social Influence Meets Item Inference,http://videolectures.net/kdd2016_hung_social_influence,14
+2016-09-22,Identifying Police Officers at Risk of Adverse Events,http://videolectures.net/kdd2016_walsh_adverse_events,14
+2015-12-05,Finding Galaxies in the Shadows of Quasars with Gaussian Processes,http://videolectures.net/icml2015_garnett_gaussian_processes,14
+2016-11-10,Closing Ceremony and Awards,http://videolectures.net/iswc2016_chairs_closing_ceremony,14
+2016-07-28,Normalized Semantic Web Distance,http://videolectures.net/eswc2016_de_nies_web_distance,14
+2015-12-01,Theme Introduction,http://videolectures.net/esr2015_cowan_theme_intro,14
+2016-07-28,Closing Ceremony,http://videolectures.net/eswc2016_sack_closing_ceremony,14
+2016-10-24,Online Variational Bayesian Motion Averaging,http://videolectures.net/eccv2016_bourmaud_bayesian_motion,13
+2015-09-27,Faster cover trees,http://videolectures.net/icml2015_izbicki_faster_cover_trees,13
+2015-12-05,An Aligned Subtree Kernel for Weighted Graphs,http://videolectures.net/icml2015_bai_weighted_graphs,13
+2015-09-27,Risk and Regret of Hierarchical Bayesian Learners,http://videolectures.net/icml2015_huggins_hierarchical_bayesian_learners,13
+2016-10-12,Online Traffic Speed Forecasting Considering Multiple Periodicities and Complex Patterns,http://videolectures.net/kdd2016_pao_traffic_speed,13
+2015-07-02,Distinguishable De-identified Faces,http://videolectures.net/fgconference2015_sun_faces,13
+2015-11-10,Provenance-Centered Dataset of Drug-Drug Interactions,http://videolectures.net/iswc2015_banda_centered_dataset,13
+2015-07-02,My 10 Year Research Vision: Building the Prosopagnosic Computer,http://videolectures.net/fgconference2015_turk_prosopagnosic_computer,13
+2015-09-27,Subsampling Methods for Persistent Homology,http://videolectures.net/icml2015_michel_persistent_homology,13
+2016-09-25,Rebalancing Bike Sharing Systems: A Multi-source Data Smart Optimization,http://videolectures.net/kdd2016_liu_sharing_systems,13
+2016-10-12,Parallel News-Article Traffic Forecasting with ADMM,http://videolectures.net/kdd2016_ioannidis_traffic_forecasting,13
+2015-07-02,Speaker de-identification using diphone recognition and speech synthesis,http://videolectures.net/fgconference2015_dobrisek_speech_synthesis,13
+2015-12-05,Reified Context Models,http://videolectures.net/icml2015_steinhardt_context_models,13
+2015-07-02,Action Unit Intensity Estimation using Hierarchical Partial Least Squares,http://videolectures.net/fgconference2015_gehrig_least_squares,13
+2016-09-25,Compact and Scalable Graph Neighborhood Sketching,http://videolectures.net/kdd2016_akiba_scalable_graph,13
+2015-12-01,Cluster Projects II: S-HELP and COBACORE,http://videolectures.net/esr2015_neville_neef_cluster_projects,13
+2015-11-10,Timely Semantics: A Study of a Stream-based Ranking System for Entity Relationships,http://videolectures.net/iswc2015_fischer_timely_semantics,13
+2015-12-20,Pozdravni nagovor,http://videolectures.net/elrc2015_pavlovic_pozdravni_nagovor,13
+2015-11-10,Automatic Curation of Clinical Trials Data in LinkedCT,http://videolectures.net/iswc2015_hassanzadeh_automatic_curation,13
+2016-11-15,Big Data Analysis Combining Website Visit Logs with User Segments and Website Content,http://videolectures.net/sikdd2016_kladnik_website_visit_logs,13
+2015-07-02,The engines of emotion: towards a shared understanding of the work they do,http://videolectures.net/fgconference2015_cowie_engines_emotion,13
+2016-09-25,Semi-Markov Switching Vector Autoregressive Model-based Anomaly Detection in Aviation Systems,http://videolectures.net/kdd2016_matthews_autoregressive_model,13
+2016-07-28,WarSampo Data Service and Semantic Portal for Publishing Linked Open Data about the Second World War History,http://videolectures.net/eswc2016_hyvonen_data_service,13
+2015-12-05,Improved Regret Bounds for Undiscounted Continuous Reinforcement Learning,http://videolectures.net/icml2015_ortner_reinforcement_learning,13
+2015-12-05,Ordered Stick-Breaking Prior for Sequential MCMC Inference of Bayesian Nonparametric Models,http://videolectures.net/icml2015_das_nonparametric_models,13
+2015-09-27,The Kendall and Mallows Kernels for Permutations,http://videolectures.net/icml2015_jiao_permutations,13
+2016-09-22,GLMix: Generalized Linear Mixed Models For Large Scale Response Prediction,http://videolectures.net/kdd2016_zhang_response_prediction,13
+2016-10-25,Panel on Enterprise Intelligence,http://videolectures.net/kdd2016_panel_enterprise_intelligence,13
+2015-09-27,Following the Perturbed Leader for Online Structured Learning,http://videolectures.net/icml2015_cohen_online_structured_learning,13
+2016-10-24,Complexity of Discrete Energy Minimization Problems,http://videolectures.net/eccv2016_shekhovtsov_discrete_energy,13
+2015-07-02,Play with Me – Measuring a Child’s Engagement in a Social Interaction,http://videolectures.net/fgconference2015_rajagopalan_social_interaction,13
+2016-10-25,Predicting the future relevance of research institutions,http://videolectures.net/kdd2016_sandulescu_research_institutions,12
+2015-12-05,High Confidence Policy Improvement,http://videolectures.net/icml2015_thomas_policy_improvement,12
+2015-07-15,LIME: the Metadata Module for OntoLex,http://videolectures.net/eswc2015_fiorelli_metadata_module,12
+2016-10-24,SSHMT: Semi-supervised Hierarchical Merge Tree for Electron Microscopy Image Segmentation,http://videolectures.net/eccv2016_liu_image_segmentation,12
+2016-03-07,Inference problems for irreversible stochastic epidemic models,http://videolectures.net/netadis2015_braunstein_epidemic_models,12
+2016-09-25,Privacy-preserving Class Ratio Estimation,http://videolectures.net/kdd2016_iyer_ratio_estimation,12
+2015-07-15,HyLAR: Hybrid Location-Agnostic Reasoning,http://videolectures.net/eswc2015_medini_hylar,12
+2016-11-10,Exception-enriched Rule Learning from Knowledge Graphs,http://videolectures.net/iswc2016_gad_elrab_knowledge_graphs,12
+2016-10-12,Visual Product Discovery,http://videolectures.net/kdd2016_long_product_discovery,12
+2016-07-28,Semantically Enhanced Quality Assurance in the JURION Business Use Case,http://videolectures.net/eswc2016_kontokostas_use_case,12
+2015-07-15,"Open City Data Pipeline: Collecting, Integrating, and Predicting Open City Data",http://videolectures.net/eswc2015_schneider_city_data,12
+2015-12-20,How can public services benefit from the CEF.AT platform,http://videolectures.net/elrc2015_pilos_public_services,12
+2015-07-02,An HMM-based Speech-smile Synthesis System: An Approach for Amusement Synthesis,http://videolectures.net/fgconference2015_el_haddad_approach,12
+2015-11-10,Interest-Based RDF Update Propagation,http://videolectures.net/iswc2015_orlandi_rdf_update,12
+2015-12-01,Theme Introduction,http://videolectures.net/esr2015_beltran_jaunsaras_theme_intro,12
+2015-07-15,What's up LOD Cloud - Observing The State of Linked Open Data Cloud Metadata,http://videolectures.net/eswc2015_assaf_open_data,12
+2015-12-01,Theme Introduction,http://videolectures.net/esr2015_cleary_theme_intro,12
+2016-09-27,PTE: Enumerating Trillion Triangles On Distributed Systems,http://videolectures.net/kdd2016_park_trillion_triangles,12
+2015-07-15,Gagg: A Graph Aggregation Operator,http://videolectures.net/eswc2015_maali_aggregation_operator,12
+2016-10-12,"A Sublinear, Massive-­scale Look-­alike Audience Extension System",http://videolectures.net/kdd2016_ma_extension_system,12
+2016-10-12,AI in Sport: What does it mean and how will it change sport in the future?,http://videolectures.net/kdd2016_panel_ai_sports,12
+2015-07-15,"Ranking Entities in the Age of Two Webs, An Application to Semantic Snippets",http://videolectures.net/eswc2015_alsarem_ranking_entities,12
+2015-07-15,Global Media Monitoring,http://videolectures.net/eswc2015_grobelnik_media_monitoring,12
+2015-07-02, Secure JPEG Scrambling enabling Privacy in Photo Sharing,http://videolectures.net/fgconference2015_ebrahimi_photo_sharing,12
+2015-07-02,Three Dimensional Binary Edge Feature Representation for Pain Expression Analysis,http://videolectures.net/fgconference2015_yin_pain_expression,12
+2015-07-02,Automatic Affective Dimension Recognition from Naturalistic Facial Expressions Based on Wavelet Filtering and PLS Regression,http://videolectures.net/fgconference2015_meng_pls_regression,12
+2016-11-10,Translating Ontologies in a Real-World Setting with ESSOT,http://videolectures.net/iswc2016_dragoni_translating_ontologies,12
+2016-07-28,Comparing Vocabulary Term Recommendations using Association Rules and Learning To Rank: A User Study,http://videolectures.net/eswc2016_schaible_user_study,12
+2015-09-27,Pushing the Limits of Affine Rank Minimization by Adapting Probabilistic PCA,http://videolectures.net/icml2015_xin_affine_rank_minimization,12
+2016-09-27,NetCycle: Collective Evolution Inference in Heterogeneous Information Networks,http://videolectures.net/kdd2016_zhang_collective_evolution,12
+2016-09-25,Overcoming key weaknesses of Distance-based Neighbourhood Methods using a Data Dependent Dissimilarity,http://videolectures.net/kdd2016_ting_dissimilarity_measure,11
+2015-10-22,Εvaluation and forecast of electricity consumption in tertiary sector building complex,http://videolectures.net/emender2015_koronaki_building_complex,11
+2016-10-24,Image Co-localization by Mimicking a Good Detector’s Confidence Score Distribution,http://videolectures.net/eccv2016_li_score_distribution,11
+2015-07-15,Linked Data in Action: Personalized Museum Tours on Mobile Devices,http://videolectures.net/eswc2015_kovalenko_linked_data,11
+2015-11-10,Drug Encyclopedia - a Linked Data Application for Physicians,http://videolectures.net/iswc2015_kozak_drug_encyclopedia,11
+2016-10-24,Similarity Search with Polysemous Codes,http://videolectures.net/eccv2016_douze_polysemous_codes,11
+2016-10-25,CityBES: A Web-based Platform to Support City-Scale Building Energy Efficiency   ,http://videolectures.net/kdd2016_hong_energy_efficiency,11
+2016-09-05,Democratizing Consumer Identity: Data Science’s Answer to Facebook ,http://videolectures.net/kdd2016_cotta_guan_consumer_identity,11
+2015-07-15,NEMROD: a framework providing an abstraction layer for handling RDF in a Symfony2 project,http://videolectures.net/eswc2015_de_carne_handling_rdf,11
+2016-11-10,Linked Open Vocabularies (LOV): a gateway to reusable semantic vocabularies on the Web,http://videolectures.net/iswc2016_vandenbussche_open_vocabularies,11
+2016-11-10,Automatic Classification of Springer Nature Proceedings with Smart Topic Miner,http://videolectures.net/iswc2016_osborne_automatic_classification,11
+2015-12-01,“Cyber threats: hiding in plain sight”,http://videolectures.net/esr2015_simmons_cyber_threats,11
+2015-10-20,Introduction and welcome – BiH perspective on Open Education,http://videolectures.net/internetofeducation2015_njuhovic_introduction,11
+2015-07-15,Crowdmapping Digital Social Innovation with Linked Data,http://videolectures.net/eswc2015_halpin_linked_data,11
+2016-09-22,Identifying Decision Makers from Professional Social Networks,http://videolectures.net/kdd2016_yu_decision_makers,11
+2016-10-12, Identifiability of Non-Gaussian Structural VAR Models for Subsampled and Mixed Frequency Time Series,http://videolectures.net/kdd2016_tank_mixed_frequency,11
+2015-10-20,"Microsoft BiH, Office 365 for Education – communication and collaboration platform",http://videolectures.net/internetofeducation2015_begic_office_365,11
+2016-09-25,AnyDBC: An Efficient Anytime Density-based Clustering Algorithm for Very Large Complex,http://videolectures.net/kdd2016_mai_complex_datasets,11
+2015-07-15,"Brave new data, revisited",http://videolectures.net/eswc2015_naumann_new_data,11
+2016-09-22,From Online Behaviors to Offline Retailing,http://videolectures.net/kdd2016_he_offline_retailing,11
+2016-09-27,Accelerating Online CP Decompositions for Higher Order Tensors,http://videolectures.net/kdd2016_zhou_order_tensors,11
+2016-10-24,Efficient Continuous Relaxations for Dense CRF,http://videolectures.net/eccv2016_desmaison_continuous_relaxations,11
+2015-11-10,DBpedia Commons: Structured Multimedia Metadata from the Wikimedia Commons,http://videolectures.net/iswc2015_knuth_dbpedia_commons,11
+2015-09-27,A New Generalized Error Path Algorithm for Model Selection,http://videolectures.net/icml2015_gu_model_selection,11
+2016-10-24,Globally Continuous and Non-Markovian Activity Analysis from Videos,http://videolectures.net/eccv2016_wang_activity_analysis,11
+2016-10-24,A Convex Solution to Spatially-Regularized Correspondence Problems,http://videolectures.net/eccv2016_windheuser_convex_solution,11
+2016-10-12,Evaluating Improvements to the Shapelet Transform,http://videolectures.net/kdd2016_bostrom_shapelet_transform,11
+2016-09-25,Sampling of Attributed Networks From Hierarchical Generative Models,http://videolectures.net/kdd2016_robles_granda_attributed_networks,10
+2016-09-27,"The Limits of Popularity-Based Recommendations, and the Role of Social Ties",http://videolectures.net/kdd2016_panconesi_social_ties,10
+2016-10-25,Ranking academic institutions on potential paper acceptance in upcoming conferences,http://videolectures.net/kdd2016_wilson_upcoming_conferences,10
+2016-09-27,Keeping it Short and Simple: Summarising Complex Event Sequences with Multivariate Patterns,http://videolectures.net/kdd2016_bertens_multivariate_patterns,10
+2016-10-25,On the Dominant Role of Returners’ Human Mobility Networks on Urban Energy Consumption ,http://videolectures.net/kdd2016_mohammadi_energy_consumption,10
+2015-07-15,HDT-MR: A Scalable Solution for RDF Compression with HDT and MapReduce,http://videolectures.net/eswc2015_gimenez_garcia_scalable_solution,10
+2016-07-28,Towards Monitoring of Novel Statements in the News,http://videolectures.net/eswc2016_farber_novel_statements,10
+2015-07-02,From pain to laughter: how the body expresses what we feel,http://videolectures.net/fgconference2015_berthouze_pain_laughter,10
+2016-10-12,Correctly Modeling Networks,http://videolectures.net/kdd2016_kolda_modeling_networks,10
+2015-12-05,Qualitative Multi-Armed Bandits: A Quantile-Based Approach,http://videolectures.net/icml2015_szorenyi_multi_armed_bandits,10
+2015-07-02,The influence of context on emotion recognition in humans ,http://videolectures.net/fgconference2015_hess_context_emotion,10
+2015-12-05,Causal Inference by Identification of Vector Autoregressive Processes with Hidden Components,http://videolectures.net/icml2015_geiger_hidden_components,10
+2015-07-15,Scalable and Reactive Programming for Semantic Web Developers,http://videolectures.net/eswc2015_calbimonte_semantic_web,10
+2016-07-28,Dataset Recommendation for Data Linking: an Intensional Approach,http://videolectures.net/eswc2016_ben_ellefi_data_linking,10
+2016-10-12,Distance-Based Influence in Networks: Computation and Maximization,http://videolectures.net/kdd2016_cohen_influence_in_networks,10
+2016-09-25,FASCINATE: Fast Cross-Layer Dependency Inference on Multi-layered Networks,http://videolectures.net/kdd2016_chen_multilayered_networks,10
+2015-12-05,Dealing with small data: On the generalization of context trees,http://videolectures.net/icml2015_eggeling_context_trees,10
+2016-07-28,Opening Ceremony,http://videolectures.net/lrec2016_calzolari_opening,10
+2016-09-27,Towards Optimal Cardinality Estimation of Unions and Intersections with Sketches,http://videolectures.net/kdd2016_ting_optimal_cardinality,10
+2016-10-25,Deep‐Learning: Investigating feed‐forward Deep Neural Networks hyper‐parameters and Comparison of Performance to Shallow Methods for Modeling Bioactivity Data ,http://videolectures.net/kdd2016_huan_deep_learning,10
+2016-07-28,RMLEditor: A Graph-based Mapping Editor for Linked Data Mappings,http://videolectures.net/eswc2016_heyvaert_data_mappings,10
+2016-10-25,Urban Computing: Using Big Data to Sovle Urban Challenges Spearker,http://videolectures.net/kdd2016_zheng_urban_challenges,10
+2016-10-24,Facilitating and Exploring Planar Homogeneous Texture for Indoor Scene Understanding,http://videolectures.net/eccv2016_ahmad_scene_understanding,10
+2016-09-25,Inferring Network Effects from Observational Data,http://videolectures.net/kdd2016_arbour_network_effects,10
+2016-09-27,Approximate Personalized PageRank on Dynamic Graphs,http://videolectures.net/kdd2016_zhang_page_rankon,10
+2016-10-12,Fashion DNA: Merging Content and Sales Data for Recommendation and Article Mapping,http://videolectures.net/kdd2016_bracher_fashion_DNA,9
+2016-11-07,Actionable and Political Text Classification Using Word Embeddings and LSTM ,http://videolectures.net/kdd2016_rao_word_embeddings,9
+2016-10-12,Space-Time Clustering with Stability Probe while Riding Downhill,http://videolectures.net/kdd2016_huang_riding_downhill,9
+2015-07-15,VocBench: a Web Application for Collaborative Development of Multilingual Thesauri,http://videolectures.net/eswc2015_stellato_web_application,9
+2016-10-12,New Time Series Methods for Flu Forecasting,http://videolectures.net/kdd2016_ramakrishnan_series_methods,9
+2016-09-25,Ranking Causal Anomalies via Temporal and Dynamical Analysis on Vanishing Correlations,http://videolectures.net/kdd2016_cheng_causal_anomalies,9
+2016-07-28,The Challenge of Conversational Machines: From MUSA to Jibo,http://videolectures.net/lrec2016_pieraccini_musa_jibo,9
+2016-10-25,Automated analytics: the organizational impact of analytics-as-a-service,http://videolectures.net/kdd2016_van_calster_automated_analytics,9
+2015-07-15,Experimental prefetching SPARQL query cacher ,http://videolectures.net/eswc2015_kjernsmo_query_cacher,9
+2016-09-27,ABRA: Approximating Betweenness Centrality in Static and Dynamic Graphs with Rademacher Averages,http://videolectures.net/kdd2016_riondato_rademacher_averages,9
+2015-12-05,Rebuilding Factorized Information Criterion: Asymptotically Accurate Marginal Likelihood,http://videolectures.net/icml2015_hayashi_factorized_information,9
+2015-07-02,Automatic 3D Facial Expression Recognition using Geometric and Textured Feature Fusion,http://videolectures.net/fgconference2015_meng_feature_fusion,9
+2015-10-21,Mining scientific literature about ageing to support better understanding and treatment of degenerative diseases,http://videolectures.net/sikdd2015_gubiani_mining_literature,9
+2016-10-25,Discovery of Functional Motifs from the Interface Region of Oligomeric Proteins using Frequent Subgraph Mining Method,http://videolectures.net/kdd2016_hasan_interface_region,9
+2016-10-12,Contextual embedding for distributed representations of entities in a text corpus,http://videolectures.net/kdd2016_kader_text_corpus,9
+2016-09-25,Annealed Sparsity via Adaptive and Dynamic Shrinking,http://videolectures.net/kdd2016_zhang_annealed_sparsity,9
+2016-07-28,RDF Query Relaxation Strategies Based on Failure Causes,http://videolectures.net/eswc2016_fokou_failure_causes,8
+2015-11-10,Facilitating Entity Navigation through Top-K Link Patterns ,http://videolectures.net/iswc2015_zheng_entity_navigation,8
+2016-10-12,Using Time Series Techniques to Forecast and Analyze Wake and Sleep Behavior,http://videolectures.net/kdd2016_williams_sleep_behavior,8
+2016-10-24,A Distance for HMMs based on Aggregated Wasserstein Metric and State Registration,http://videolectures.net/eccv2016_chen_state_registration,8
+2016-10-12,Evaluating Causal Models by Comparing Interventional Distributions,http://videolectures.net/kdd2016_garant_interventional_distributions,8
+2016-07-28,Heuristics for Connecting Heterogeneous Knowledge via FrameBase,http://videolectures.net/eswc2016_rouces_heterogeneous_knowledge,8
+2015-12-05,Message Passing for Collective Graphical Models,http://videolectures.net/icml2015_sun_graphical_models,8
+2016-09-22,EMBERS at 4 years: Experiences operating an Open Source Indicators Forecasting System,http://videolectures.net/kdd2016_muthiah_source_indicators,8
+2016-09-25,Partial Label Learning via Feature-Aware Disambiguation,http://videolectures.net/kdd2016_kong_label_learning,8
+2016-10-25,Robustness and Resilience of cities around the world ,http://videolectures.net/kdd2016_abbar_resilience_of_cities,8
+2015-12-01,A European Perspective and Perceptions,http://videolectures.net/esr2015_brear_ziercke_eu_perspective,8
+2016-07-28,A Contextualised Semantics for owl:sameAs,http://videolectures.net/eswc2016_beek_contextualised_semantics,8
+2016-07-28,OpenSubtitles2016: Extracting Large Parallel Corpora from Movie and TV Subtitles ,http://videolectures.net/lrec2016_lison_tv_subtitles,8
+2016-10-25,Monitoring Manhattan's traffic from 5 cameras? ,http://videolectures.net/kdd2016_chen_monitoring_manhattan,8
+2015-10-21,Expanding the OntoDM ontology with network analysis tasks and algorithms,http://videolectures.net/sikdd2015_panov_ontodm_ontology,8
+2016-09-22,Minimizing Legal Exposure for High-Tech Companies through Collaborative Filtering Methods,http://videolectures.net/kdd2016_jin_filtering_methods,8
+2015-12-05,JUMP-Means: Small-Variance Asymptotics for Markov Jump Processes,http://videolectures.net/icml2015_huggins_jump_processes,8
+2016-09-27,Revisiting Random Binning Feature: Fast Convergence and Strong Parallelizability,http://videolectures.net/kdd2016_wu_strong_parallelizability,8
+2016-09-25,Just One More: Modeling Binge Watching Behavior,http://videolectures.net/kdd2016_trouleau_watching_behavior,8
+2016-07-28,Detecting Similar Linked Datasets Using Topic Modelling,http://videolectures.net/eswc2016_roeder_topic_modelling,8
+2015-11-10,ASSESS - Automatic Self-Assessment Using Linked Data ,http://videolectures.net/iswc2015_buehmann_linked_data,8
+2016-09-27,Mining Subgroups with Exceptional Transition Behavior,http://videolectures.net/kdd2016_lemmerich_mining_subgroups,8
+2016-07-28,Bridging the Gap Between Formal Languages and Natural Languages with Zippers,http://videolectures.net/eswc2016_ferre_natural_languages,8
+2016-07-28,Enriching a Small Artwork Collection through Semantic Linking,http://videolectures.net/eswc2016_dragoni_semantic_linking,8
+2016-07-28,Learning to Classify Spatiotextual Entities in Maps,http://videolectures.net/eswc2016_giannopoulus_enteties_maps,8
+2016-10-12,Short-term Time Series Forecasting with Regression Automata,http://videolectures.net/kdd2016_chenal_regression_automata,8
+2016-09-25,"Extreme Multi-label Loss Functions for Reommencdation, Tagging, Ranking & Other Missing Label Applications",http://videolectures.net/kdd2016_jain_loss_functions,8
+2015-12-01,COBACORE project with Martijn Neef,http://videolectures.net/esr2015_neef_cobacore_project,8
+2015-12-05,A Convex Exemplar-based Approach to MAD-Bayes Dirichlet Process Mixture Models,http://videolectures.net/icml2015_lin_mixture_models,8
+2016-10-25,"Estimating Evacuation Hotspots using GPS data: What happened after the large earthquakes in Kumamoto, Japan? ",http://videolectures.net/kdd2016_yabe_estimating_evacuation,8
+2015-07-15,Towards Hybrid NER: A Study of Content and Crowdsourcing-Related Performance Factors,http://videolectures.net/eswc2015_feyisetan_performance_factors,8
+2015-12-01,AF3 project with Michael Remes,http://videolectures.net/esr2015_remes_af3_project,8
+2015-10-22,Deployment of a partial mesh network for adaption of district level energy optimization schemes,http://videolectures.net/emender2015_tsoukalas_optimization_schemes,8
+2016-07-28,Test-Driven Development of Ontologies,http://videolectures.net/eswc2016_keet_driven_development,8
+2015-12-05,Vector-Space Markov Random Fields via Exponential Families,http://videolectures.net/icml2015_tansey_exponential_families,8
+2015-07-15,Towards a Semantic Clinical Data Warehouse: A Case Study of Discovering Similar Genes,http://videolectures.net/eswc2015_kaempgen_similar_genes,7
+2016-09-25,Predicting Matchups and Preferences in Context,http://videolectures.net/kdd2016_chen_predicting_matchups,7
+2015-11-10,A Generic RDF Transformation Software and its Application to an Online Translation Service for Common Languages of Linked Data ,http://videolectures.net/iswc2015_corby_generic_rdf,7
+2015-07-15,PhiloWeb,http://videolectures.net/eswc2015_thompson_philoweb,7
+2016-07-28,A Comparison of Domain-based Word Polarity Estimation using different Word Embeddings,http://videolectures.net/lrec2016_garcia_pablos_word_embeddings,7
+2015-12-01,Proactive and reactive risk management,http://videolectures.net/esr2015_kanoun_proactive_risk,7
+2016-10-25,Predicting Institution-Level Paper Acceptance at Conferences,http://videolectures.net/kdd2016_xie_paper_acceptance,7
+2016-07-28,"Large Multi-lingual, Multi-level and Multigenre Annotation Corpus",http://videolectures.net/lrec2016_li_annotation_corpus,7
+2015-07-15,Towards the Russian Linked Culture Cloud: Data Enrichment and Publishing,http://videolectures.net/eswc2015_cherny_russian_heritage,7
+2016-09-25,Structural Neighborhood based Classification of Nodes in a Network,http://videolectures.net/kdd2016_nandanwar_structural_neighborhood,7
+2016-09-22,Matrix Computations and Optimization in Apache Spark,http://videolectures.net/kdd2016_zadeh_matrix_computations,7
+2015-12-20,Sharing Data and Language Resources: Technical Aspects and Best Practices,http://videolectures.net/elrc2015_piperidis_best_practices,7
+2016-10-25,Reducing Inefficiencies in Taxi Systems ,http://videolectures.net/kdd2016_zhu_taxi_system,7
+2015-12-05,PeakSeg: constrained optimal segmentation and supervised penalty learning for peak detection in count data,http://videolectures.net/icml2015_hocking_count_data,7
+2015-12-01, Theme 3 Panel Questions and Answers,http://videolectures.net/esr2015_cleary_theme_panel,7
+2016-07-28,A Comparison of Techniques for  Name-based Private Record Linkage,http://videolectures.net/eswc2016_cheatham_record_linkage,7
+2015-07-15,Interview with a witness,http://videolectures.net/eswc2015_kjernsmo_van_ossenbruggen_interview,7
+2016-10-12,Paper Spotlights 2,http://videolectures.net/kdd2016_graphs_spotlights_part2,7
+2016-09-25,Skinny-dip: Clustering in a Sea of Noise,http://videolectures.net/kdd2016_maurus_sea_of_noise,7
+2015-07-15,HDL – Towards a Harmonized Dataset Model for Open Data Portals,http://videolectures.net/eswc2015_assaf_harmonized_dataset_model,7
+2015-12-05,The Benefits of Learning with Strongly Convex Approximate Inference,http://videolectures.net/icml2015_london_approximate_inference,7
+2015-12-20,Preizkus prevajalnika MT@EC ,http://videolectures.net/elrc2015_zeljko_preizkus_prevajalnika,6
+2015-12-01,Lessons Learned: Experiences in other Sectors,http://videolectures.net/esr2015_davy_lessons_learned,6
+2016-07-28,Handling Inconsistencies due to Class Disjointness  in SPAR QL Updates,http://videolectures.net/eswc2016_polleres_handling_inconsistencies,6
+2016-10-25,Organizer’s Report,http://videolectures.net/kdd2016_ma_report,6
+2016-07-28,Aspect based Sentiment Analysis in Hindi: Resource Creation and Evaluation ,http://videolectures.net/lrec2016_ekbal_sentiment_analysis,6
+2015-07-15,Named-Entity-based Linking and Exploration of News using an Adapted Jaccard Metric,http://videolectures.net/eswc2015_de_nies_jaccard_metric,6
+2016-10-12,Exact and Estimation of Local Edge­centric Graphlet Counts,http://videolectures.net/kdd2016_ahmed_edgecentric_graphlet,6
+2016-09-25,Assessing Human Error Against a Benchmark of Perfection,http://videolectures.net/kdd2016_anderson_human_error,6
+2016-10-25,What’s Next?,http://videolectures.net/kdd2016_wang_next,6
+2015-10-22,A system for the emergency management in energy network control rooms,http://videolectures.net/emender2015_calefato_emergency_management,6
+2015-12-20,Začetek delavnice in nagovor organizatorjev ,http://videolectures.net/elrc2015_krek_piperidis_zacetek_delavnice,6
+2015-07-15,"Finding, Assessing, and Integrating Statistical Sources for Data Mining",http://videolectures.net/eswc2015_knoblock_data_mining,6
+2016-10-25,Finding Influential Institutions in Bibliographic Information Networks,http://videolectures.net/kdd2016_gupta_influential_institutions,6
+2016-11-07,Prognostics of Combustion Instabilities from Hi-speed Flame Video using A Deep Convolutional Selective Autoencoder,http://videolectures.net/kdd2016_akintayo_selective_autoencoder,6
+2015-10-21,Leveraging and Balancing Heterogeneous Sources of Evidence in Ontology Learning,http://videolectures.net/eswc2015_wohlgenannt_ontology_learning,6
+2016-07-28,Gleaning Types for Literals in RDF Triples with Application to Entity Summarization,http://videolectures.net/eswc2016_gunaratna_gleaning_types,6
+2015-07-02,Comparing categorical and dimensional ratings of emotional speech,http://videolectures.net/fgconference2015_amir_dimensional_ratings,6
+2015-12-20,Workshop Aims & Objectives,http://videolectures.net/elrc2015_piperidis_aims_objectives,6
+2016-09-22,Boosted Decision Tree Regression Adjustment for Variance Reduction of Online Controlled Experiments,http://videolectures.net/kdd2016_drutsa_variance_reduction,6
+2015-07-15,Certifying the interoperability of RDF database systems,http://videolectures.net/eswc2015_rafes_database_systems,6
+2015-07-15,Towards Linked Data Fact Validation through Measuring Consensus,http://videolectures.net/eswc2015_liu_linked_data,6
+2016-07-28,Gulf Arabic Resource Building for Sentiment Analysis,http://videolectures.net/lrec2016_johansson_arabic_resource,6
+2016-09-22,A Corpus of Text Data and Gaze Fixations from Autistic and Non-Autistic Adults,http://videolectures.net/lrec2016_yaneva_text_data,6
+2016-10-12,Detection of fashion trends and seasonal cycles through the analysis of implicit and explicit client feedback,http://videolectures.net/kdd2016_sanchis_ojeda_client_feedback,6
+2015-12-01,Theme Introduction,http://videolectures.net/esr2015_cornet_theme_intro,6
+2015-12-20,Zaključki in priporočila ,http://videolectures.net/elrc2015_piperidis_krek_zakljucki,5
+2016-07-28,Sentiment Lexicons for Arabic Social Media,http://videolectures.net/lrec2016_mohammad_social_media,5
+2016-10-12,Scalable SDE Filtering and Inference with Apache Spark,http://videolectures.net/kdd2016_bhat_apache_spark,5
+2016-09-27,Generalized Hierarchical Sparse Model for Arbitrary-Order Interactive Antigenic Sites Identification,http://videolectures.net/kdd2016_han_sparse_model,5
+2016-10-25,An Active Learning Framework Incorporating User Input For Mining Urban Data,http://videolectures.net/kdd2016_gunopulos_urban_data,5
+2016-10-24,Branching Gaussian Processes with Applications to Spatiotemporal Reconstruction of 3D Trees,http://videolectures.net/eccv2016_simek_gaussian_processes,5
+2015-11-10,A Flexible Framework for Understanding the Dynamics of Evolving RDF Datasets,http://videolectures.net/iswc2015_roussakis_flexible_framework,5
+2016-11-07,AnonyMine: Mining anonymous social media posts using psycho-lingual and crowd-sourced dictionaries,http://videolectures.net/kdd2016_paul_anonymous_social,5
+2016-09-22,ANTUSD: A Large Chinese Sentiment Dictionary,http://videolectures.net/lrec2016_wang_chinese_sentiment,5
+2015-07-02,Panel session: The Promise and Perils of Found Data,http://videolectures.net/fgconference2015_beveridge_panel,5
+2016-10-12,Time Lag Concerned Dynamic Dependency Network Structure Learning,http://videolectures.net/kdd2016_han_structure_learning,5
+2015-07-15,What SPARQL Query Logs Tell and do not Tell about Semantic Relatedness in LOD,http://videolectures.net/eswc2015_paulheim_query_logs,5
+2016-07-28,Provenance Management for Evolving RDF Datasets,http://videolectures.net/eswc2016_avgoustaki_provenance_management,5
+2015-07-15,Scalable Semantic Version Control for Linked Data Management,http://videolectures.net/eswc2015_hauptmann_linked_data,5
+2016-11-15,Application of Advanced Analytical Techniques in Support of Socio-economic Impact Assessment of Innovation Funding Programmes,http://videolectures.net/sikdd2016_fuart_innovation_funding_programmes,5
+2015-12-01,A European Commission Perspective,http://videolectures.net/esr2015_quevauviller_eu_commission,5
+2016-10-25,Disaggregating Appliance-Level Energy Consumption: A Probabilistic Framework ,http://videolectures.net/kdd2016_tomkins_probabilistic_framework,5
+2015-12-20,Pravni okvir pridobivanja jezikovnih podatkov ,http://videolectures.net/elrc2015_bogataj_jancic_pravni_okvir,5
+2016-09-22,Corpora for Learning the Mutual Relationship between Semantic Relatedness and Textual Entailment ,http://videolectures.net/lrec2016_vo_textual_entailment,5
+2016-10-12,Incremental Method for Spectral Clustering of Increasing Orders ,http://videolectures.net/kdd2016_chen_increasing_orders,5
+2016-11-10,Integrating Medical Scientific Knowledge with the Semantically Quantified Self,http://videolectures.net/iswc2016_third_scientific_knowledge,5
+2016-10-25,Multi-Task Label Propagation with Dissimilarity Measures,http://videolectures.net/kdd2016_frasca_dissimilarity_measures,5
+2015-12-05,Metadata Dependent Mondrian Processes,http://videolectures.net/icml2015_wang_mondrian_processes,4
+2016-11-07,Improving Sentiment Classification of Social Media Posts through Data Refinements,http://videolectures.net/kdd2016_markman_labeled_data,4
+2015-07-02,Panel session: The Promise and Perils of Found Data,http://videolectures.net/fgconference2015_bowyer_panel,4
+2015-09-27,Dynamic Sensing: Better Classification under Acquisition Constraints,http://videolectures.net/icml2015_richman_dynamic_sensing,4
+2016-07-28,Supporting Arbitrary Custom Datatypes  in RDF and SPARQL,http://videolectures.net/eswc2016_lefrancois_custom_datatypes,4
+2016-10-25,Rediscovering your customer base using web mining,http://videolectures.net/kdd2016_dreyfuss_web_mining,4
+2015-07-15,Consuming RDF data OOP-way,http://videolectures.net/eswc2015_pluskiewicz_szczepanski_consuming_rdf,4
+2016-10-12,Scaling Overlapping Clustering,http://videolectures.net/kdd2016_kloster_overlapping_clustering,4
+2016-10-25,Multiple network alignment via multiMAGNA++,http://videolectures.net/kdd2016_vijayan_network_alignment,4
+2016-10-12,Scalable Clustering of Correlated Time Series using Expectation Propagation,http://videolectures.net/kdd2016_aicher_expectation_propagation,4
+2016-07-28,Full-text Support for Publish/Subscribe Ontology Systems,http://videolectures.net/eswc2016_zervakis_ontology_systems,4
+2016-10-25,Towards Data Quality Assessment in Online Advertising,http://videolectures.net/kdd2016_geyik_online_advertising,4
+2016-10-12,Computational Video for Sports: Challenges for Large Scale Data Analysis,http://videolectures.net/kdd2016_essa_computational_video,4
+2015-07-15,Frank: Algorithmic Access to the LOD Cloud,http://videolectures.net/eswc2015_beek_lod_cloud,4
+2016-07-28,Heaven: A Framework for Systematic Comparative Research Approach for RSP Engines,http://videolectures.net/eswc2016_tommasini_stream_processing,4
+2016-07-28,Ensemble Classification of Grants using LDA-based Features,http://videolectures.net/lrec2016_korkontzelos_ensemble_classification,4
+2015-07-02,Context-based Modeling of Human Communication Dynamics,http://videolectures.net/fgconference2015_morency_context_modeling,4
+2016-09-22,Online dual decomposition for performance and delivery-based distributed ad allocation,http://videolectures.net/kdd2016_huang_dual_decomposition,3
+2016-10-25,Three tools for human in the loop data science,http://videolectures.net/kdd2016_parameswaran_data_science,3
+2016-09-27,TRIEST: Counting Local and Global Triangles in Fully-Dynamic Streams with Fixed Memory Size,http://videolectures.net/kdd2016_de_stefani_memory_size,3
+2016-09-22,Predictors without Borders: Behavioral Modeling of Product Adoption in Three Developing Countries,http://videolectures.net/kdd2016_khan_product_adoption,3
+2016-10-12,Measuring Graph Proximity with Blink Model ,http://videolectures.net/kdd2016_qian_blink_model,3
+2016-07-28,A Language Independent Methods for Generating Large Scale Polarity Lexicons,http://videolectures.net/lrec2016_basili_independent_methods,3
+2016-10-25,Prediction of Research Impact,http://videolectures.net/kdd2016_yokoyama_research_impact,3
+2016-09-22,Dynamic and Robust Wildfire Risk Prediction System: An Unsupervised Approach,http://videolectures.net/kdd2016_rusu_unsupervised_approach,3
+2016-09-22,Engagement Capacity and Engaging Team Formation for Reach Maximization of Online Social Media Platforms,http://videolectures.net/kdd2016_gore_media_platforms,3
+2016-10-25,Multi-label classification and analysis of customer complaint logs,http://videolectures.net/kdd2016_dasgupta_customer_complaint,3
+2015-07-15,Roomba: An Extensible Framework to Validate and Build Dataset Profiles,http://videolectures.net/eswc2015_assaf_roomba,3
+2016-07-28,"Yes, We Care! Results of the Ethics and Natural Language Processing Surveys",http://videolectures.net/lrec2016_fort_processing_surveys,3
+2016-10-25,Regressing to Regression - Predicting Conference Paper Acceptance,http://videolectures.net/kdd2016_schlosser_paper_acceptance,3
+2015-07-15,Sorted Neighborhood for Schema-free RDF Data,http://videolectures.net/eswc2015_kejriwal_sorted_neighborhood,3
+2015-07-02,Panel session: The Promise and Perils of Found Data,http://videolectures.net/fgconference2015_phillips_panel,3
+2016-09-27,A multiple test correction for streams and cascades of statistical hypothesis tests,http://videolectures.net/kdd2016_webb_hypothesis_tests,2
+2015-12-01,Theme 1 Panel Questions and Answers,http://videolectures.net/esr2015_cornet_theme_panel,2
+2016-07-28,Web Chat Conversations from Contact Centers: a Descriptive Study,http://videolectures.net/lrec2016_charlet_web_chat,2
+2016-10-12,"Making an Idea Machine: Modular Architecture for a Scaleable Exploratory Data Analysis Platform in Genomics, Sports and Beyond",http://videolectures.net/kdd2016_paquette_idea_machine,2
+2016-10-25,A Simple Method to Predict Affiliation Ranking in KDDCup 2016,http://videolectures.net/kdd2016_chou_affiliation_ranking,2
+2016-07-28,Semantic Topic Compass - Classification based on Unsupervised Feature Ambiguity Gradation,http://videolectures.net/eswc2016_saif_topic_compass,2
+2016-09-22,Audience Expansion for Online Social Network Advertising,http://videolectures.net/kdd2016_liu_network_advertising,2
+2016-10-25,Distributed Learning Dynamics Convergence in Routing Games,http://videolectures.net/kdd2016_bayen_routing_games,2
+2016-10-12,Recognizing and Analyzing Ball Screen Defense in the NBA,http://videolectures.net/kdd2016_brooks_screen_defense,2
+2016-10-12,Identifiability and Transportability in Dynamic Causal Networks,http://videolectures.net/kdd2016_blondel_causal_networks,2
+2016-07-28,Language Resource Citation: the ISLRN Dissemination and Further Developments,http://videolectures.net/lrec2016_mapelli_language_resource,2
+2016-07-28,Trends in HLT Research: A Survey of LDC's Data Scholarship Program,http://videolectures.net/lrec2016_cieri_scholarship_program,2
+2015-07-15,Requirements for Federated Data Integration as a Compilation Process,http://videolectures.net/eswc2015_adamou_compilation_process,2
+2016-10-25,Enterprise Intelligence: Putting the pieces together,http://videolectures.net/kdd2016_tunkelang_enterprise_intelligence,2
+2016-09-27,A Subsequence Interleaving Model for Sequential Pattern Mining,http://videolectures.net/kdd2016_fowkes_interleaving_model,2
+2016-07-28,Query Rewriting in RDF Stream Processing,http://videolectures.net/eswc2016_calbimonte_stream_processing,2
+2016-07-28,Humor in Collective Discourse: Unsupervised Funniness Detection in the New Yorker Cartoon Caption Contest ,http://videolectures.net/lrec2016_radev_cartoon_caption,2
+2016-07-28,Iterative Entity Navigation via Co-Clustering Semantic Links and  Entity Classes,http://videolectures.net/eswc2016_zheng_iterative_entity,2
+2016-09-27,Temporal Order-based First-Take-All Hashing for Fast Attention-Deficit-Hyperactive-Disorder Detection,http://videolectures.net/kdd2016_hu_disorder_detection,2
+2016-10-12, On the Effect of Endpoints on Dynamic Time Warping,http://videolectures.net/kdd2016_silva_time_warping,2
+2015-12-01,Theme 2 Panel Questions and Answers,http://videolectures.net/esr2015_cowan_theme_panel,1
+2016-07-28,Fostering the Next Generation of European Language Technology: Recent Developments – Emerging Initiatives – Challenges and Opportunities,http://videolectures.net/lrec2016_rehm_next_generation,1
+2016-07-28,"A Corpus of Wikipedia Discussions: Over the Years, with Topic, Power and Gender Labels",http://videolectures.net/lrec2016_prabhakaran_gender_labels,1
+2015-07-15,Towards Linked Data Update Notifications,http://videolectures.net/eswc2015_knuth_linked_data,1
+2016-10-25,Urban Simulation and Visualization,http://videolectures.net/kdd2016_waddell_urban_simulation,1
+2015-07-15,A linkset quality metric measuring multilingual gain in SKOS Thesauri,http://videolectures.net/eswc2015_albertoni_linkset_quality,1
+2016-07-28,Supporting Geo-Ontology Engineering through Spatial Data Analytics,http://videolectures.net/eswc2016_celino_ontology_engineering,1
+2016-10-12,Paper Spotlights 1,http://videolectures.net/kdd2016_graphs_spotlights_part1,1
+2016-07-28,Open Data Vocabularies for Assigning Usage Rights to Data Resources from Translation Projects,http://videolectures.net/lrec2016_lewis_open_data,1
+2015-10-02,"Okrogla miza ""Pravo v dobi velikega podatkovja: Ali lahko računalnik sodi bolje kot sodnik?"", Ljubljana 2015",http://videolectures.net/okroglamizapravo2015_ljubljana,0
+2016-07-28,C4Corpus: Multilingual Web-size Corpus with Free License,http://videolectures.net/lrec2016_habernal_free_license,0
+2015-08-24,"11th IEEE International Conference on Automatic Face and Gesture Recognition (FG), Ljubljana 2015",http://videolectures.net/fgconference2015_ljubljana,0
+2016-08-31,"22nd ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD), San Francisco 2016",http://videolectures.net/kdd2016_sanfrancisco,0
+2016-03-16,Ljubljana Golang Meetup 2016: Almost-Spring Edition,http://videolectures.net/golangmeetup2016_ljubljana,0
+2016-07-28,A Multimodal Corpus for the Assessment of Public Speaking Ability and Anxiety,http://videolectures.net/lrec2016_chollet_multimodal_corpus,0
+2016-10-24,"14th European Conference on Computer Vision (ECCV), Amsterdam 2016",http://videolectures.net/eccv2016_amsterdam,0
+2015-10-20,"2nd Internet of Education Conference, Sarajevo 2015",http://videolectures.net/internetofeducation2015_sarajevo,0
+2017-11-17,A probabilistic topic model for the analysis of blood disease disorders,http://videolectures.net/nipsworkshops2010_quon_ptm,0
+2015-07-15,Building a DCAT merger,http://videolectures.net/eswc2015_heyvaert_dcat_merger,0
+2015-07-15,"12th Extended Semantic Web Conference (ESWC), Portorož 2015",http://videolectures.net/eswc2015_portoroz,0
+2016-05-31,"7th International Conference on Bioinspired Optimization Methods And Their Applications (BIOMA), Bled 2016",http://videolectures.net/bioma2016_bled,0
+2017-11-17,Leveraging Noisy Lists for Social Feed Ranking,http://videolectures.net/icwsm2013_burgess_feed_ranking,0
+2015-12-05,Scalable Deep Poisson Factor Analysis for Topic Modeling,http://videolectures.net/icml2015_carlson_deep_poisson,0
+2015-11-13,"14th International Semantic Web Conference (ISWC), Bethlehem 2015",http://videolectures.net/iswc2015_bethlehem,0
+2017-11-17,Regularized Output Kernel Regression for protein-protein interaction prediction: application to link transfer and transduction,http://videolectures.net/nipsworkshops2010_birlutiu_ltip,0
+2016-07-28,Building the Seshat Ontology for a Global History Databank,http://videolectures.net/eswc2016_bozic_history_databank,0
+2015-01-22,"13th International Semantic Web Conference (ISWC), Trentino 2014",http://videolectures.net/iswc2014_trentino,0
+2016-07-28,Creating a Lexicon of Bavarian Dialect by Means of Facebook Language Data and Crowdsourcing,http://videolectures.net/lrec2016_burghardt_bavarian_dialect,0
+2017-11-17,From Learning to Cognition,http://videolectures.net/workshops2012_watkins_learning_cognition,0
+2015-10-22,"Slovenian KDD Conference on Data Mining and Data Warehouses (SiKDD), Ljubljana 2015",http://videolectures.net/sikdd2015_ljubljana,0
+2017-11-17,Interoperability standards in the localization industry – Status today and opportunities for the future,http://videolectures.net/w3cworkshop2011_munshi_standards,0
+2015-12-05,Latent Topic Networks: A Versatile Probabilistic Programming Framework for Topic Models,http://videolectures.net/icml2015_foulds_topic_models,0
+2015-07-15,The Role of Negative Results for Choosing an Evaluation Approach – A Recommender Systems Case Study,http://videolectures.net/eswc2015_heitmann_negative_results,0
+2016-05-10,AI for Good Foundation (AI4Good) - Artificial Intelligence to Help the World,http://videolectures.net/ai4good,0
+2015-12-08,"32nd International Conference on Machine Learning (ICML), Lille 2015",http://videolectures.net/icml2015_lille,0
+2016-09-01,"International Society for Bayesian Analysis (ISBA), Sardinia 2016",http://videolectures.net/isba2016_sardinia,0
+2016-07-28,"10th edition of the Language Resources and Evaluation Conference (LREC), Portorož 2016",http://videolectures.net/lrec2016_portoroz,0
+2017-11-17,Minute Madness,http://videolectures.net/iswc2011_minute_madness,0
+2016-05-27,"International Conference on Learning Representations (ICLR) 2016, San Juan",http://videolectures.net/iclr2016_san_juan,0
+2016-03-19,"NETADIS Workshop on Modelling and Inference for Dynamics on Complex Interaction Networks: Joining Up Machine Learning and Statistical Physics, Montréal 2015",http://videolectures.net/netadis2015_workshop,0
+2015-09-27,Preference Completion: Large-scale Collaborative Ranking from Pairwise Comparisons,http://videolectures.net/icml2015_preference_completion,0
+2015-10-20,traMOOC – Translation for Massive Open Online Courses ,http://videolectures.net/internetofeducation2015_cholakov_tramooc,0
+2015-07-02,Privacy in the era of always-on everywhere cameras,http://videolectures.net/fgconference2015_cavallaro_privacy,0
+2016-11-17,"15th International Semantic Web Conference (ISWC), Kobe 2016",http://videolectures.net/iswc2016_kobe,0
+2015-12-05,Markov Mixed Membership Models,http://videolectures.net/icml2015_paisley_membership_models,0
+2016-09-22,Passing a USA National Bar Exam: a First Corpus for Experimentation,http://videolectures.net/lrec2016_wyner_bar_exam,0
+2017-11-17,Govorne tehnologije in jezikovni viri,http://videolectures.net/czvi07_kacic_gtijv,0
+2017-11-17,Building Pattern: Synthetic Biology as a Tool for Exploring Emergent Systems,http://videolectures.net/turing100_grant_building_pattern,0
+2015-07-13,PhiloWeb 2015: Politicizing the Future of the (Semantic) Web,http://videolectures.net/eswc2015_philoweb,0
+2015-12-05,DRAW: A Recurrent Neural Network For Image Generation,http://videolectures.net/icml2015_gregor_image_generation,0
+2017-11-17,Award Ceremony,http://videolectures.net/iswc2011_hendler_martin_awards,0
+2017-11-17,Global Computing for our Complex World,http://videolectures.net/outofthebox_bishop_global_computing,0
+2015-06-17,4th Workshop on Knowledge Discovery and Data Mining Meets Linked Open Data (Know@LOD),http://videolectures.net/eswc2015_knowalod,0
+2015-06-03,Third International Workshop on Context Based Affect Recognition (CBAR) 2015,http://videolectures.net/fgconference2015_cbar,0
+2015-10-22,"1st International Workshop on Energy Management, Prediction and Big Data Elaboration (EMENDER), Ljubljana 2015",http://videolectures.net/emender2015_ljubljana,0
+2016-01-11,"European Security Research (ESR) - The Next Wave, Dublin 2015",http://videolectures.net/esr2015_dublin,0
+2016-11-15,"Slovenian KDD Conference on Data Mining and Data Warehouses (SiKDD), Ljubljana 2016",http://videolectures.net/sikdd2016_ljubljana,0
+2015-11-16,Exhibiton interviews,http://videolectures.net/esr2015_exhibition_interviews,0
+2015-03-06,Machine Learning Seminars at Carnegie Mellon University,http://videolectures.net/cmuseminars,0
+2017-11-17,"Symbiotic Autonomy: Robots, Humans, and the Web",http://videolectures.net/turing100_veloso_symbiotic_autonomy,0
+2015-12-05,Ordinal Mixed Membership Models,http://videolectures.net/icml2015_virtanen_membership_models,0
+2017-11-17,Polynomial Time Optimal Query Algorithms for Finding Graphs with Arbitrary Real Weights,http://videolectures.net/colt2013_choi_graphs,0
+2016-08-23,"13th Extended Semantic Web Conference (ESWC), Heraklion 2016",http://videolectures.net/eswc2016_heraklion,0
+2016-02-10,"International Conference on Computer Vision (ICCV) 2015, Santiago",http://videolectures.net/iccv2015_santiago,0
+2015-10-21,Web Ontologies: Lessons Learned from Conceptual Modeling at Scale,http://videolectures.net/eswc2015_hepp_web_ontologies,0
+2016-01-13,"Delavnica projekta European Language Resources Coordination (ELRC), Ljubljana 2015",http://videolectures.net/elrc2015_ljubljana,0
+2017-11-17,Social Targeting for Privacy-Friendly On-line Advertising,http://videolectures.net/icwsm2011_provost_targeting,0
+2017-11-17,1st Pre-Kick off NGO meeting,http://videolectures.net/may09_ngomeeting,0
+2015-06-17,2nd Workshop on Linked Data Quality (LDQ2015),http://videolectures.net/eswc2015_ldq,0
+2016-07-28,Parallel Global Voices: a Collection of Multilingual Corpora with Citizen Media Stories,http://videolectures.net/lrec2016_prokopidis_media_stories,0
+2015-07-15,Constructing Subsumption Hierarchies of Web Queries,http://videolectures.net/eswc2015_prohaska_web_queries,0
+2016-07-28,Identification of Drug-Related Medical Conditions in Social Media,http://videolectures.net/lrec2016_morlane_hondere_medical_conditions,0
+2015-12-05,Approximate Dynamic Programming for Two-Player Zero-Sum Markov Games,http://videolectures.net/icml2015_perolat_dynamic_programming,0
+2016-07-25,Multi-Tensor Decompositions for Personalized Cancer Diagnostics and  Prognostics,http://videolectures.net/kolokviji_alter_cancer_diagnostics,0
+2016-07-28,Mirroring Facial Expressions and Emotions in Dyadic Conversations,http://videolectures.net/lrec2016_navarretta_facial_expressions,0
+2015-09-27,On TD(0) with function approximation: Concentration bounds and a centered variant with exponential convergence,http://videolectures.net/icml2015_korda_learning_algorithm,0
+2017-11-17,"The cloud, Big Data and Great Opportunities",http://videolectures.net/dataforum2012_hedegaard_bojsen_cloud,0
+2017-11-17, Opening Ceremony,http://videolectures.net/iswc2011_noy_welty_staab_opening,0
+2015-09-27,Spectral Clustering via the Power Method - Provably,http://videolectures.net/icml2015_gittens_spectral_clustering,0
+2015-06-03,Workshop on De-Identification for Privacy Protection in Multimedia (DEID) 2015,http://videolectures.net/fgconference2015_deid,0
+2016-10-06,"6th ESWC Summer School, Dubrovnik 2016",http://videolectures.net/eswc2016_summer_school,0
+2017-11-17,Statistics with a human face...and other parts of the human body,http://videolectures.net/as2011_bowman_human,0
+2015-06-17,ESWC 2015 Developers Workshop,http://videolectures.net/eswc2015_semdev,0
+2015-10-22,"5th ESWC Summer School, Crete 2015",http://videolectures.net/eswc2015_summer_school,0
+2015-07-15,Tutorial on Visual Analytics with Linked Open Data and Social Media (VisLOD2015),http://videolectures.net/eswc2015_gentile_mazumdar_kauppinen_vislod_part2,0
+2015-07-15,Tutorial on Visual Analytics with Linked Open Data and Social Media (VisLOD2015),http://videolectures.net/eswc2015_gentile_mazumdar_kauppinen_vislod_part1,0
+2015-12-21,"Znanstvena konferenca Slovenščina na spletu in v novih medijih, Ljubljana 2015",http://videolectures.net/slovenscina2015_ljubljana,0
+2015-12-05,Efficient Training of LDA on a GPU by Mean-for-Mode Estimation,http://videolectures.net/icml2015_tristan_mode_estimation,0
+2015-06-17,Workshop on Negative or Inconclusive rEsults in Semantic web (NoISE 2015),http://videolectures.net/eswc2015_noise,0
+2015-06-17,Tutorial on Visual Analytics with Linked Open Data and Social Media (VisLOD 2015),http://videolectures.net/eswc2015_vislod,0
+2015-06-03,"3rd International Workshop on Emotion Representation, Analysis and Synthesis in Continuous Time and Space (EmoSPACE) 2015",http://videolectures.net/fgconference2015_emospace,0
+2015-07-29,"2nd Multidisciplinary Conference on Reinforcement Learning and Decision Making (RLDM), Edmonton 2015",http://videolectures.net/rldm2015_edmonton,0
+2017-11-17,Developers Q&A session,http://videolectures.net/w3cworkshop2011_developers_qa,0
+2016-07-29,"Could Speaker, Gender or Age Awareness be beneficial in Speech-based Emotion Recognition?",http://videolectures.net/lrec2016_sidorov_emotion_recognition,0
+2017-11-17,Large-Scale Graph Mining for Recommendations,http://videolectures.net/kdd2013_shah_graph_mining,0
+2017-11-17,Pogovor o jezikovnih virih za slovenski jezik,http://videolectures.net/czvi07_stabej_debata,0
+2015-12-05,Non-Stationary Approximate Modified Policy Iteration,http://videolectures.net/icml2015_scherrer_policy_iteration,0
+2015-02-20,"2nd Machine Learning for Personalized Medicine (MLPM), Paris 2014 ",http://videolectures.net/mlpmsummerschool2014_paris,0
+2017-11-17,Panel discussion moderated by Bas Haring,http://videolectures.net/snnsymposium2010_haring_pdmb,0
+2017-11-17,Policy Q&A session,http://videolectures.net/w3cworkshop2011_policy_qa,0
+2015-06-17,2nd International Workshop on Dataset PROFIling and fEderated Search for Linked Data (PROFILES 2015),http://videolectures.net/eswc2015_profiles,0
+2016-07-28,Deep Learning of Audio and Language Features for Humor Prediction,http://videolectures.net/lrec2016_bertero_deep_learning,0
+2016-10-05,KDD 2016 Workshops,http://videolectures.net/kdd2016_workshops,0
+2017-11-17,Localizers Q&A session,http://videolectures.net/w3cworkshop2011_localizers_qa,0
+2017-11-17,In-Memory Computing - The need for speed on Big Data,http://videolectures.net/dataforum2013_brenckmann_inmemory_computing,0
+2015-12-05,Unsupervised Learning of Video Representations using LSTMs,http://videolectures.net/icml2015_mansimov_video_representations,0
+2016-07-28,TEG-REP: A corpus of Textual Entailment Graphs based on Relation Extraction Patterns,http://videolectures.net/lrec2016_gabryszak_extraction_patterns,0
+2015-07-15,Programmatic Access to Crowdsourced Human Computation for Designing and Enhancing Interlinking,http://videolectures.net/eswc2015_sarasua_enhancing_interlinking,0
